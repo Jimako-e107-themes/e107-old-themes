@@ -155,7 +155,7 @@ class theme implements e_theme_render
 		}
 		
 		
-		if(style == 'wm') // Example - If rendered from 'welcome message' 
+		if($style == 'wm') // Example - If rendered from 'welcome message' 
 		{
 			echo '<h1 class="cursive">'.$caption.'</h1><h4>'.$this->remove_ptags($text).'</h4>';
 			return;

@@ -1,5 +1,12 @@
 # [e107 Bootstrap Landing Zero 2](https://www.e107sk.com/)"
 
+Version 1.4.2
+
+- FIXED Removed plugins folder from theme, see #4390
+- FIXED Default style if there are skins available
+- FIXED Mistypo for WM tablestyle
+- FIXED Used LAN shortcode for theme LAN string - PHP8 fix
+
 Version 1.4.1
 
 - FIXED Hidding Welcome Message by default

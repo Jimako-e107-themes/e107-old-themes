@@ -119,7 +119,7 @@
     'custompages' => 'signup gallery',
   ),
 )]]></core>
-		<core name="themecss">style.css</core>
+		<core name="themecss">style_default.css</core>
 		<core name="xurl"><![CDATA[array (
   'facebook' => 'https://www.facebook.com/e107sk',
   'twitter' => '',
