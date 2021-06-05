@@ -157,7 +157,7 @@ class theme_shortcodes extends e_shortcode
 			}
 
 			$text = '
-			<video autoplay="" loop="" class="fillWidth fadeIn wow collapse in" data-wow-delay="0.5s" poster="'.$videoposter.'" id="video-background">
+			<video onloadedmetadata="this.muted = true" playsinline autoplay muted loop class="fillWidth fadeIn wow collapse in" data-wow-delay="0.5s" poster="'.$videoposter.'" id="video-background">
 				<source src="'.$videourl.'" type="video/mp4">'.LAN_LZ_THEME_03.'
 			</video>';
 			
