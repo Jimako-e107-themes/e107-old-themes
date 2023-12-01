@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<e107Export version="2.3.0 (git)" timestamp="1610197107" >
+	<database>
+	<dbTable name="menus">
+		<item>
+			<field name="menu_id">3</field>
+			<field name="menu_name">feature-menu-3</field>
+			<field name="menu_location">12</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">7</field>
+			<field name="menu_layout">home</field>
+			<field name="menu_parms"></field>
+		</item>
+		<item>
+			<field name="menu_id">4</field>
+			<field name="menu_name">news_months_menu</field>
+			<field name="menu_location">2</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">news/</field>
+			<field name="menu_layout"></field>
+			<field name="menu_parms">{
+    "showarchive": "1",
+    "showarchive__switch": "0",
+    "year": "2019"
+}</field>
+		</item>
+		<item>
+			<field name="menu_id">6</field>
+			<field name="menu_name">news_archive_menu</field>
+			<field name="menu_location">1</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">news/</field>
+			<field name="menu_layout"></field>
+			<field name="menu_parms"></field>
+		</item>
+		<item>
+			<field name="menu_id">9</field>
+			<field name="menu_name">custom-small-device</field>
+			<field name="menu_location">31</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">9</field>
+			<field name="menu_layout">home</field>
+			<field name="menu_parms"></field>
+		</item>
+		<item>
+			<field name="menu_id">11</field>
+			<field name="menu_name">navigation_menu</field>
+			<field name="menu_location">105</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">navigation/</field>
+			<field name="menu_layout">full</field>
+			<field name="menu_parms">{
+				"lastname_74758209201093747": "",
+				"caption": {
+					"English": "Footer Links"
+				},
+				"type": "main",
+				"layout": "alt6"
+			}</field>
+		</item>
+		<item>
+			<field name="menu_id">179</field>
+			<field name="menu_name">blogcalendar_menu</field>
+			<field name="menu_location">1</field>
+			<field name="menu_order">2</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">blogcalendar_menu/</field>
+			<field name="menu_layout"></field>
+			<field name="menu_parms"></field>
+		</item>
+		<item>
+			<field name="menu_id">233</field>
+			<field name="menu_name">tagcloud_menu</field>
+			<field name="menu_location">107</field>
+			<field name="menu_order">2</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">tagcloud/</field>
+			<field name="menu_layout">contact</field>
+			<field name="menu_parms"></field>
+		</item>
+		<item>
+			<field name="menu_id">218</field>
+			<field name="menu_name">caption-blog</field>
+			<field name="menu_location">5</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages">1-news.php!|news/!</field>
+			<field name="menu_path">15</field>
+			<field name="menu_layout"></field>
+			<field name="menu_parms"></field>
+		</item>
+		<item>
+			<field name="menu_id">1</field>
+			<field name="menu_name">feature-menu-1</field>
+			<field name="menu_location">10</field>
+			<field name="menu_order">2</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">5</field>
+			<field name="menu_layout">home</field>
+			<field name="menu_parms"></field>
+		</item>
+		<item>
+			<field name="menu_id">2</field>
+			<field name="menu_name">feature-menu-2</field>
+			<field name="menu_location">11</field>
+			<field name="menu_order">2</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">6</field>
+			<field name="menu_layout">home</field>
+			<field name="menu_parms"></field>
+		</item>
+		<item>
+			<field name="menu_id">8</field>
+			<field name="menu_name">custom-device</field>
+			<field name="menu_location">30</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">8</field>
+			<field name="menu_layout">home</field>
+			<field name="menu_parms"></field>
+		</item>
+		<item>
+			<field name="menu_id">10</field>
+			<field name="menu_name">navigation_menu</field>
+			<field name="menu_location">105</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">navigation/</field>
+			<field name="menu_layout">home</field>
+			<field name="menu_parms">{
+				"lastname_74758209201093747": "",
+				"caption": {
+					"English": "Footer Links"
+				},
+				"type": "main",
+				"layout": "alt6"
+			}</field>
+		</item>
+		<item>
+			<field name="menu_id">12</field>
+			<field name="menu_name">navigation_menu</field>
+			<field name="menu_location">105</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">navigation/</field>
+			<field name="menu_layout"></field>
+			<field name="menu_parms">{
+				"lastname_74758209201093747": "",
+				"caption": {
+					"English": "Footer Links"
+				},
+				"type": "main",
+				"layout": "alt6"
+			}</field>
+		</item>
+		<item>
+			<field name="menu_id">13</field>
+			<field name="menu_name">navigation_menu</field>
+			<field name="menu_location">106</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">navigation/</field>
+			<field name="menu_layout">home</field>
+			<field name="menu_parms">{
+				"lastname_74758209201093747": "",
+				"caption": {
+					"English": "Footer Links"
+				},
+				"type": "main",
+				"layout": "alt6"
+			}</field>
+		</item>
+		<item>
+			<field name="menu_id">14</field>
+			<field name="menu_name">navigation_menu</field>
+			<field name="menu_location">106</field>
+			<field name="menu_order">2</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">navigation/</field>
+			<field name="menu_layout">full</field>
+			<field name="menu_parms">{
+				"lastname_74758209201093747": "",
+				"caption": {
+					"English": "Footer Links"
+				},
+				"type": "main",
+				"layout": "alt6"
+			}</field>
+		</item>
+		<item>
+			<field name="menu_id">15</field>
+			<field name="menu_name">navigation_menu</field>
+			<field name="menu_location">106</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">navigation/</field>
+			<field name="menu_layout"></field>
+			<field name="menu_parms">{
+				"lastname_74758209201093747": "",
+				"caption": {
+					"English": "Footer Links"
+				},
+				"type": "main",
+				"layout": "alt6"
+			}</field>
+		</item>
+		<item>
+			<field name="menu_id">16</field>
+			<field name="menu_name">navigation_menu</field>
+			<field name="menu_location">107</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">navigation/</field>
+			<field name="menu_layout">home</field>
+			<field name="menu_parms">{
+				"lastname_74758209201093747": "",
+				"caption": {
+					"English": "Footer Links"
+				},
+				"type": "main",
+				"layout": "alt6"
+			}</field>
+		</item>
+		<item>
+			<field name="menu_id">17</field>
+			<field name="menu_name">navigation_menu</field>
+			<field name="menu_location">107</field>
+			<field name="menu_order">2</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">navigation/</field>
+			<field name="menu_layout">full</field>
+			<field name="menu_parms">{
+				"lastname_74758209201093747": "",
+				"caption": {
+					"English": "Footer Links"
+				},
+				"type": "main",
+				"layout": "alt6"
+			}</field>
+		</item>
+		<item>
+			<field name="menu_id">18</field>
+			<field name="menu_name">navigation_menu</field>
+			<field name="menu_location">107</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">navigation/</field>
+			<field name="menu_layout"></field>
+			<field name="menu_parms">{
+				"lastname_74758209201093747": "",
+				"caption": {
+					"English": "Footer Links"
+				},
+				"type": "main",
+				"layout": "alt6"
+			}</field>
+		</item>
+	</dbTable>
+	</database>
+</e107Export>

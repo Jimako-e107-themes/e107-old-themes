@@ -1,0 +1,21 @@
+/* default is white, fix mdb missing dropdown footer styling */
+footer.page-footer a.dropdown-item {
+    color: initial;
+}
+
+/* fix pl-3 for caption and added div by core */
+footer.page-footer nav.flex-column
+{
+	margin-left: -1rem!important;
+}
+
+/* darkened footer copyright */
+footer.page-footer .footer-copyright{
+	background-color: rgba(0, 0, 0, 0.2);
+}
+
+/* color of links - you can't use text-white directly with a tag */
+.text-white a{
+	color: white;
+}
+ 

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<e107Export version="2.3.1 (git)" timestamp="1610196817" >
+	<database>
+	<dbTable name="hero">
+		<item>
+			<field name="hero_id">1</field>
+			<field name="hero_title">Bootstrap HTML5 Template</field>
+			<field name="hero_description"><![CDATA[A clean and versatile <strong>Bootstrap 4</strong> theme.<br>A responsive design for your business and products]]></field>
+			<field name="hero_bg"></field>
+			<field name="hero_media"></field>
+			<field name="hero_bullets"></field>
+			<field name="hero_button1"><![CDATA[{
+    "icon": "fa-download",
+    "label": "Available to<br> <strong>Download Now<\/strong>",
+    "url": "#",
+    "class": ""
+}]]></field>
+			<field name="hero_button2"><![CDATA[{
+    "icon": "fa-mobile",
+    "label": "Available on<br> <strong>AppStore<\/strong>",
+    "url": "#",
+    "class": ""
+}]]></field>
+			<field name="hero_order">0</field>
+			<field name="hero_class">0</field>
+		</item>
+	</dbTable>
+	</database>
+</e107Export>
