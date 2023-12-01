@@ -1,0 +1,43 @@
+<body id="page-top" class="{LAYOUT_ID}" {BODY_ONLOAD}>
+	{---MODAL---}
+	<div id="container">
+		<div id="headbar" class="container-fluid">
+			<div id="headcont" class="row">
+				<div class="headcontlogo col-md-6 col-sm-4">
+					{NAVBAR_BRANDING} 
+				</div>
+				<div class="headcontbanner  col-md-6 col-sm-8">
+					{SETIMAGE: w=450}
+					{BANNER}
+				</div>
+			</div>
+		</div>
+		<div id="menubar" class="navbar navbar-inverse container-fluid" role="navigation">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			</div>
+			<div class="navbar-collapse collapse ">
+				{NAVIGATION=main}{SIGNIN}
+			</div>
+			<!--/.navbar-collapse -->
+		</div>
+
+		{---LAYOUT---}
+		{SETSTYLE=footer}
+
+		<div id="fmenubar" class="container-fluid">
+			<div id="fmenucont" class="row text-center">
+				{NAVIGATION=footer}
+			</div>
+		</div>
+		<div id="footbar" class="container-fluid">
+			<div id="footcont">
+				{SITEDISCLAIMER}
+			</div>
+		</div>
+</body>
