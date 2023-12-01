@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Theme name="Cyborg" version="1.0.1" date="2021-07-08" compatibility="2.3.1">
+	<author name ="Jimako" email="" url="https://www.e107sk.com" />
+	<summary>Dark Bootstrap 5 Theme</summary>
+	<description>Dark Bootstrap 5 theme for e107 v.2.3.1</description>
+	<category>generic</category>
+    <copyright>bootstrap and bootswatch</copyright>
+    <complince>HTML5, CSS3</complince>
+	<screenshots>
+		<image>preview_frontend.png</image>
+	</screenshots>
+	<libraries>
+		<library name="bootstrap" version="5" /> 
+		<library name="fontawesome" version="4"  />
+	</libraries>
+	<keywords>
+		<word>bootstrap</word>
+		<word>dark</word>
+	</keywords>
+	<layouts>
+		<layout name='default' title='Default' default='true' />
+		<layout name='home' title='Home / Landing Page'>
+			<custompages>FRONTPAGE</custompages>	
+		</layout>
+		<layout name='sidebar' title='Page with sidebar'>
+            <custompages>news.php?extend page.php? contact.php /download /gallery /chatbox_menu /pm /log</custompages>
+        </layout>
+		<layout name='full' title='Full width page'>
+            <custompages>/forum /blogcalendar_menu /calendar_menu</custompages>
+        </layout>
+	</layouts>
+</e107Theme>
