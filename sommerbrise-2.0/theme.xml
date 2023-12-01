@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Theme name="Sommerbrise" version="2.0.2" date="2021-09-07" compatibility="2.3.0">
+	<author name ="Jimako" email="jimako@jimako.sk" url="https://e107sk.com" />
+	<summary>efiction skin Sommerbrise by Artphilia ported for e107</summary>
+	<description>efiction skin Sommerbrise by Artphilia ported for e107</description>
+	<category>generic</category>
+	<keywords>
+		<word>bootstrap</word>
+		<word>clean</word>
+	</keywords>
+	<screenshots>
+		<image>preview_sommerbrise.png</image>
+	</screenshots>
+	<stylesheets>
+		<css file="style.css" name="Default"/>
+	</stylesheets>
+	<layouts>
+		<layout name='index' title='Home Page' >
+			<custompages>FRONTPAGE</custompages>
+		</layout>
+		<layout name='full' title='Full Page' >
+			<custompages>forum</custompages>
+		</layout>
+        <layout name='default' title='Default layout' default='true' >
+             <menuPresets>
+				<area id='31'>
+                    <menu name='online' />
+					<menu name='search' />
+					<menu name='news_categories' />
+					<menu name='other_news' />
+					<menu name='other_news2' />
+					<menu name='blogcalendar' />
+				</area>
+                
+			</menuPresets>
+        </layout>     
+		<layout name='efiction' title='Efiction Pages' >
+			<custompages>:efiction</custompages>
+             <menuPresets>
+				<area id='31'>
+                    <menu name='online' />
+					<menu name='search' />
+					<menu name='news_categories' />
+					<menu name='other_news' />
+					<menu name='other_news2' />
+					<menu name='blogcalendar' />
+				</area>
+			</menuPresets>
+		</layout> 
+	</layouts>
+    <themePrefs>
+		<pref name='branding'>logo</pref>
+	</themePrefs>
+</e107Theme>

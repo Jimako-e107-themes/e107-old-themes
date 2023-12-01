@@ -1,0 +1,565 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<e107Export version="2.3.2 (git)" timestamp="1638895509" >
+	<database>
+	<dbTable name="page">
+		<item>
+			<field name="page_id">19</field>
+			<field name="page_title"><![CDATA[<span class=&quot;font-weight-medium&quot;>The Story of </span> Boots4]]></field>
+			<field name="page_subtitle"></field>
+			<field name="page_sef">home-service-1</field>
+			<field name="page_chapter">11</field>
+			<field name="page_metakeys"></field>
+			<field name="page_metadscr"></field>
+			<field name="page_metaimage"></field>
+			<field name="page_metarobots"></field>
+			<field name="page_text"><![CDATA[[html]<!-- ============================================-->
+<p></p>
+<!-- <section> begin ============================-->
+<section class=&quot;pt-5 pt-xl-7 pt-xxl-8&quot;>
+<div class=&quot;container-fluid&quot;>
+<div class=&quot;row justify-content-center pb-5&quot; id=&quot;boots4-story&quot;>
+<div class=&quot;col-lg-10&quot;>
+<div class=&quot;text-center mb-5 mb-lg-6&quot;>
+<h2 class=&quot;fs-2 fs-sm-3&quot;><span class=&quot;font-weight-medium&quot;>The Story of </span> Boots4</h2>
+<hr class=&quot;hr-ornate&quot;></div>
+<div class=&quot;row&quot;>
+<div class=&quot;col-md-6 mb-4 mb-md-0&quot;>
+<div class=&quot;bg-holder position-relative rounded py-8 py-md-0&quot; style=&quot;background-image: url(&#039;assets/img/infinity.jpg&#039;);&quot;></div>
+<!--/.bg-holder-->
+<div class=&quot;position-absolute t-0 l-0 h-100 w-100 d-flex align-items-center justify-content-center&quot;><a class=&quot;video-modal text-white&quot; href=&quot;https://www.youtube.com/watch?v=p6-WUWmV-fg&quot; data-start=&quot;33&quot; data-end=&quot;59&quot;><span class=&quot;fa-layers fa-fw fs-5&quot;><i class=&quot;fas fa-circle&quot;></i><i class=&quot;text-primary fas fa-play&quot; data-fa-transform=&quot;shrink-12 right-0.5&quot;></i></span></a></div>
+</div>
+<div class=&quot;col-md-6 pl-3 pl-md-4&quot;>
+<h4>To Infinity and Beyond!</h4>
+<p class=&quot;lead my-3&quot;>At Boots4, we believe there is a way where customers are earned rather than bought. We&#039;re obsessively passionate about it, and our mission is to help you achieve it.</p>
+<p class=&quot;column-xxl-2 mb-0&quot;>Boots4 was founded by ThemeWagon Team in 1896. It was called the world&#039;s first bootstrap four template, and started as a Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam illo, magni aut recusandae perspiciatis quam sed eveniet, debitis tempore natus corrupti nostrum deserunt, harum in dolor dolorem sit voluptatum iusto. recusandae perspiciatis quam sed eveniet, debitis tempore natus corrupti nostrum recusandae perspiciatis quam sed eveniet, debitis tempore.</p>
+</div>
+</div>
+</div>
+</div>
+<div class=&quot;row justify-content-center&quot; id=&quot;fun-facts&quot;>
+<div class=&quot;col-lg-10&quot;>
+<div class=&quot;card-deck&quot;>
+<div class=&quot;card border-2x border-warning rounded py-5 px-3 text-center&quot;><span class=&quot;d-block fs-3 mt-2 text-dark&quot; data-countup=&quot;64973&quot;>0</span>
+<h5>Lines Of Code</h5>
+</div>
+<div class=&quot;card border-2x border-danger rounded py-5 px-3 text-center&quot;><span class=&quot;d-block fs-3 mt-2 text-dark&quot; data-countup=&quot;10218&quot;>0</span>
+<h5>Cups of Coffee</h5>
+</div>
+<div class=&quot;card border-2x border-primary rounded py-5 px-3 text-center&quot;><span class=&quot;d-block fs-3 mt-2 text-dark&quot; data-countup=&quot;7499&quot;>0</span>
+<h5>Download</h5>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- end of .container--></section>
+<!-- <section> close ============================-->
+<p></p>
+<!-- ============================================-->
+<p></p>
+<!-- ============================================-->
+<p></p>
+<!-- <section> begin ============================-->
+<section class=&quot;pt-0 text-center&quot;>
+<div class=&quot;container-fluid&quot;>
+<div class=&quot;row justify-content-center&quot;>
+<div class=&quot;col-lg-10 col-xxl-7 col-xl-9&quot;>
+<div class=&quot;mb-5 mb-lg-6&quot;>
+<h2 class=&quot;fs-2 fs-sm-3&quot;><span class=&quot;font-weight-medium&quot;>Meet Our </span> Team</h2>
+<hr class=&quot;hr-ornate&quot;></div>
+<div class=&quot;row&quot;>
+<div class=&quot;col-6 col-sm-4 col-md-3 col-lg-4 col-xl-3 mb-5&quot;>
+<h5 class=&quot;mt-3 mb-1&quot;>Alex Butler</h5>
+<h5 class=&quot;text-500 mb-1&quot;>Fraud Manager</h5>
+</div>
+<div class=&quot;col-6 col-sm-4 col-md-3 col-lg-4 col-xl-3 mb-5&quot;>
+<h5 class=&quot;mt-3 mb-1&quot;>Andreas Heim</h5>
+<h5 class=&quot;text-500 mb-1&quot;>Software Engineer</h5>
+</div>
+<div class=&quot;col-6 col-sm-4 col-md-3 col-lg-4 col-xl-3 mb-5&quot;>
+<h5 class=&quot;mt-3 mb-1&quot;>Amanda Alleson</h5>
+<h5 class=&quot;text-500 mb-1&quot;>UX Designer</h5>
+</div>
+<div class=&quot;col-6 col-sm-4 col-md-3 col-lg-4 col-xl-3 mb-5&quot;>
+<h5 class=&quot;mt-3 mb-1&quot;>Brandon Renfrow</h5>
+<h5 class=&quot;text-500 mb-1&quot;>Developer</h5>
+</div>
+<div class=&quot;col-6 col-sm-4 col-md-3 col-lg-4 col-xl-3 mb-5&quot;>
+<h5 class=&quot;mt-3 mb-1&quot;>Brian Childs</h5>
+<h5 class=&quot;text-500 mb-1&quot;>Training Manager</h5>
+</div>
+<div class=&quot;col-6 col-sm-4 col-md-3 col-lg-4 col-xl-3 mb-5&quot;>
+<h5 class=&quot;mt-3 mb-1&quot;>Britney Muller</h5>
+<h5 class=&quot;text-500 mb-1&quot;>SEO Scientist</h5>
+</div>
+<div class=&quot;col-6 col-sm-4 col-md-3 col-lg-4 col-xl-3 mb-5&quot;>
+<h5 class=&quot;mt-3 mb-1&quot;>Casey Coates</h5>
+<h5 class=&quot;text-500 mb-1&quot;>Software Engineer</h5>
+</div>
+<div class=&quot;col-6 col-sm-4 col-md-3 col-lg-4 col-xl-3 mb-5&quot;>
+<h5 class=&quot;mt-3 mb-1&quot;>Dana</h5>
+<h5 class=&quot;text-500 mb-1&quot;>Bug Hunter</h5>
+</div>
+</div>
+</div>
+</div>
+<div class=&quot;row justify-content-center pt-4&quot;>
+<div class=&quot;col&quot;>
+<h2 class=&quot;font-weight-medium fs-2 fs-sm-3&quot;>Make Your Story With Us</h2>
+<p class=&quot;lead&quot;>Join the talented group of artists &amp; imagineers.</p>
+<a class=&quot;btn btn-primary rounded mt-2 shadow-sm&quot; href=&quot;#!&quot;>Join Boots4</a></div>
+</div>
+</div>
+<!-- end of .container--></section>
+<!-- <section> close ============================-->
+<p></p>
+<!-- ============================================-->[/html]]]></field>
+			<field name="page_author">1</field>
+			<field name="page_datestamp">1484824736</field>
+			<field name="page_rating_flag">0</field>
+			<field name="page_comment_flag">0</field>
+			<field name="page_password"></field>
+			<field name="page_class">0</field>
+			<field name="page_ip_restrict"></field>
+			<field name="page_template">default</field>
+			<field name="page_order">10</field>
+			<field name="page_fields"></field>
+			<field name="menu_name">about</field>
+			<field name="menu_title">About Us</field>
+			<field name="menu_text"><![CDATA[[html]<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>[/html]]]></field>
+			<field name="menu_image">{e_THEME}boots4/install/favorites.svg</field>
+			<field name="menu_icon"></field>
+			<field name="menu_template">home-services</field>
+			<field name="menu_class">0</field>
+			<field name="menu_button_url">fa-lock</field>
+			<field name="menu_button_text">fa-shopping-cart</field>
+		</item>
+		<item>
+			<field name="page_id">20</field>
+			<field name="page_title"><![CDATA[<span class=&quot;font-weight-medium&quot;>What We </span> Do best]]></field>
+			<field name="page_subtitle"></field>
+			<field name="page_sef">home-service-2</field>
+			<field name="page_chapter">12</field>
+			<field name="page_metakeys"></field>
+			<field name="page_metadscr"></field>
+			<field name="page_metaimage"></field>
+			<field name="page_metarobots"></field>
+			<field name="page_text"><![CDATA[[html]<div class=&quot;row&quot;>
+<div class=&quot;col-sm-6 col-md-4 col-lg-6 col-xl-4 mb-4 mb-xl-0&quot;>
+<h5 class=&quot;text-uppercase&quot;>Application</h5>
+<p>[img loading=lazy&amp;title=Logo&amp;width=100]{e_THEME}boots4/install/logo.png[/img]</p>
+<p class=&quot;pr-xxl-5&quot;>Having the shortest possible delay between idea and launch is crucial in business.</p>
+</div>
+<div class=&quot;col-sm-6 col-md-4 col-lg-6 col-xl-4 mb-4 mb-xl-0&quot;>
+<h5 class=&quot;text-uppercase&quot;>Development</h5>
+<p class=&quot;pr-xxl-5&quot;>Our award-winning team follow industry best practices to develop software.</p>
+</div>
+<div class=&quot;col-sm-6 col-md-4 col-lg-6 col-xl-4 mb-4 mb-xl-0&quot;>
+<h5 class=&quot;text-uppercase&quot;>Design</h5>
+<p class=&quot;pr-xxl-5&quot;>Our unique tools design grahphics &amp; HTML5 templates 4X faster than our rivals.</p>
+</div>
+</div>[/html]]]></field>
+			<field name="page_author">1</field>
+			<field name="page_datestamp">1484824813</field>
+			<field name="page_rating_flag">0</field>
+			<field name="page_comment_flag">0</field>
+			<field name="page_password"></field>
+			<field name="page_class">0</field>
+			<field name="page_ip_restrict"></field>
+			<field name="page_template">default</field>
+			<field name="page_order">20</field>
+			<field name="page_fields"></field>
+			<field name="menu_name">service</field>
+			<field name="menu_title">Service</field>
+			<field name="menu_text"><![CDATA[[html]<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>[/html]]]></field>
+			<field name="menu_image">{e_THEME}boots4/install/suitcase.svg</field>
+			<field name="menu_icon"></field>
+			<field name="menu_template">home-services</field>
+			<field name="menu_class">0</field>
+			<field name="menu_button_url"></field>
+			<field name="menu_button_text">fa-laptop</field>
+		</item>
+		<item>
+			<field name="page_id">21</field>
+			<field name="page_title">Our Portfolio</field>
+			<field name="page_subtitle"></field>
+			<field name="page_sef">home-service-3</field>
+			<field name="page_chapter">13</field>
+			<field name="page_metakeys"></field>
+			<field name="page_metadscr"></field>
+			<field name="page_metaimage"></field>
+			<field name="page_metarobots"></field>
+			<field name="page_text"><![CDATA[[html]<p><strong>Lorem Ipsum</strong><span> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#039;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>[/html]]]></field>
+			<field name="page_author">1</field>
+			<field name="page_datestamp">1484824868</field>
+			<field name="page_rating_flag">0</field>
+			<field name="page_comment_flag">0</field>
+			<field name="page_password"></field>
+			<field name="page_class">0</field>
+			<field name="page_ip_restrict"></field>
+			<field name="page_template">default</field>
+			<field name="page_order">30</field>
+			<field name="page_fields"></field>
+			<field name="menu_name">portfolio</field>
+			<field name="menu_title">Portfoliio</field>
+			<field name="menu_text"><![CDATA[[html]<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>[/html]]]></field>
+			<field name="menu_image">{e_THEME}boots4/install/heart.svg</field>
+			<field name="menu_icon"></field>
+			<field name="menu_template">home-services</field>
+			<field name="menu_class">0</field>
+			<field name="menu_button_url"></field>
+			<field name="menu_button_text"></field>
+		</item>
+		<item>
+			<field name="page_id">29</field>
+			<field name="page_title">Our Gallery</field>
+			<field name="page_subtitle"></field>
+			<field name="page_sef">home-service-1</field>
+			<field name="page_chapter">14</field>
+			<field name="page_metakeys"></field>
+			<field name="page_metadscr"></field>
+			<field name="page_metaimage"></field>
+			<field name="page_metarobots"></field>
+			<field name="page_text"><![CDATA[[html]<p><strong>Lorem Ipsum</strong><span> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#039;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>[/html]]]></field>
+			<field name="page_author">1</field>
+			<field name="page_datestamp">1484824736</field>
+			<field name="page_rating_flag">0</field>
+			<field name="page_comment_flag">0</field>
+			<field name="page_password"></field>
+			<field name="page_class">0</field>
+			<field name="page_ip_restrict"></field>
+			<field name="page_template">default</field>
+			<field name="page_order">40</field>
+			<field name="page_fields"></field>
+			<field name="menu_name">gallery</field>
+			<field name="menu_title">Gallery</field>
+			<field name="menu_text"><![CDATA[[html]<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>[/html]]]></field>
+			<field name="menu_image">{e_THEME}boots4/install/image.svg</field>
+			<field name="menu_icon"></field>
+			<field name="menu_template">home-services</field>
+			<field name="menu_class">0</field>
+			<field name="menu_button_url">fa-lock</field>
+			<field name="menu_button_text">fa-shopping-cart</field>
+		</item>
+		<item>
+			<field name="page_id">30</field>
+			<field name="page_title">Our Faqs</field>
+			<field name="page_subtitle"></field>
+			<field name="page_sef">home-service-2</field>
+			<field name="page_chapter">15</field>
+			<field name="page_metakeys"></field>
+			<field name="page_metadscr"></field>
+			<field name="page_metaimage"></field>
+			<field name="page_metarobots"></field>
+			<field name="page_text"><![CDATA[[html]<div class=&quot;ui styled fluid accordion mt-4 border-0&quot; data-options=&quot;{&quot;>
+<h5 class=&quot;title active&quot;><span class=&quot;fas fa-plus mr-1 text-800&quot; data-fa-transform=&quot;shrink-6 down-1.5&quot;></span> What is Boots4?</h5>
+<div class=&quot;content pl-5 active&quot;>
+<p>Bootst4 is a first Bootstrap 4 premium template. It is published in 1896 by talented Boots4 Team. It is also called most popular Bootsrap template in the world. The unique layout and clean design are the main reason of its populairity. At first Boots4 was published and get the top popularity among the web designer all over the world. After this version 2 is published and keep its popularity. Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque eligendi, nostrum sint, quis inventore molestiae porro sit aut unde accusantium neque earum dolor exercitationem architecto repellendus nobis aspernatur sapiente dolores? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consectetur ratione laudantium accusamus, quibusdam odio ipsam blanditiis doloribus eius in delectus, corrupti mollitia vel nam! Aperiam doloremque dolore dicta quod ipsam!</p>
+</div>
+<div class=&quot;d-inline-block mb-0&quot;>Why should I use Boots4?</div>
+<div class=&quot;content pl-5&quot;>
+<p>There are many reason to use Boots4 Template. Unique layout design, smooth animation and clean ui design are the most important features of Boots4 Bootsrap Template.</p>
+</div>
+<div class=&quot;d-inline-block mb-0&quot;>How to get Boots4?</div>
+<div class=&quot;content pl-5&quot;>
+<p>You can get Boots4 template from ThemeWagon. Where you also get quality free and premium templates</p>
+<p>A template site may be the most convenient way to buy a template. Buying a template from a private owner allows you to assess the pedigree and upbringing of your template before choosing to take it home. Lastly, finding your template from a shelter, helps give a good home to a template which may not find one so readily.</p>
+</div>
+<div class=&quot;d-inline-block mb-0&quot;>What are the features of Boots4?</div>
+<div class=&quot;content pl-5&quot;>
+<p>There are many features in Boots4 Template. Unique layout design, smooth animation and clean ui design are the most important features of Boots4 Bootsrap Template.</p>
+</div>
+<div class=&quot;d-inline-block mb-0&quot;>Write ten sentences about Boots4.</div>
+<div class=&quot;content pl-5&quot;>
+<p>There are many features in Boots4 Template. Unique layout design, smooth animation and clean ui design are the most important features of Boots4 Bootsrap Template.</p>
+</div>
+<div class=&quot;d-inline-block mb-0&quot;>What are the differences between Boots4 v2 and v3?</div>
+<div class=&quot;content pl-5&quot;>
+<p>There are many features in Boots4 Template. Unique layout design, smooth animation and clean ui design are the most important features of Boots4 Bootsrap Template.</p>
+</div>
+</div>[/html]]]></field>
+			<field name="page_author">1</field>
+			<field name="page_datestamp">1484824813</field>
+			<field name="page_rating_flag">0</field>
+			<field name="page_comment_flag">0</field>
+			<field name="page_password"></field>
+			<field name="page_class">0</field>
+			<field name="page_ip_restrict"></field>
+			<field name="page_template">default</field>
+			<field name="page_order">50</field>
+			<field name="page_fields"></field>
+			<field name="menu_name">faq</field>
+			<field name="menu_title">FAQ</field>
+			<field name="menu_text"><![CDATA[[html]<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>[/html]]]></field>
+			<field name="menu_image">{e_THEME}boots4/install/computer.svg</field>
+			<field name="menu_icon"></field>
+			<field name="menu_template">home-services</field>
+			<field name="menu_class">0</field>
+			<field name="menu_button_url"></field>
+			<field name="menu_button_text">fa-laptop</field>
+		</item>
+		<item>
+			<field name="page_id">31</field>
+			<field name="page_title">Get in</field>
+			<field name="page_subtitle">Touch</field>
+			<field name="page_sef">home-service-3</field>
+			<field name="page_chapter">16</field>
+			<field name="page_metakeys"></field>
+			<field name="page_metadscr"></field>
+			<field name="page_metaimage"></field>
+			<field name="page_metarobots"></field>
+			<field name="page_text"></field>
+			<field name="page_author">1</field>
+			<field name="page_datestamp">1484824868</field>
+			<field name="page_rating_flag">0</field>
+			<field name="page_comment_flag">0</field>
+			<field name="page_password"></field>
+			<field name="page_class">0</field>
+			<field name="page_ip_restrict"></field>
+			<field name="page_template">contact</field>
+			<field name="page_order">60</field>
+			<field name="page_fields"></field>
+			<field name="menu_name">contact</field>
+			<field name="menu_title">Drop us a line</field>
+			<field name="menu_text"><![CDATA[[html]<p><span>Our team are eagerly waiting to help you growing your business. Please feel free to contact with us.</span></p>[/html]]]></field>
+			<field name="menu_image">{e_THEME}boots4/install/placeholder.svg</field>
+			<field name="menu_icon"></field>
+			<field name="menu_template">home-services</field>
+			<field name="menu_class">0</field>
+			<field name="menu_button_url"></field>
+			<field name="menu_button_text"></field>
+		</item>
+		<item>
+			<field name="page_id">32</field>
+			<field name="page_title"><![CDATA[<span class=&quot;font-weight-medium&quot;>Simple </span> Page]]></field>
+			<field name="page_subtitle"></field>
+			<field name="page_sef">home-service-2</field>
+			<field name="page_chapter">17</field>
+			<field name="page_metakeys"></field>
+			<field name="page_metadscr"></field>
+			<field name="page_metaimage"></field>
+			<field name="page_metarobots"></field>
+			<field name="page_text"><![CDATA[[html]<p><strong>Lorem Ipsum</strong><span> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#039;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>[/html]]]></field>
+			<field name="page_author">1</field>
+			<field name="page_datestamp">1484824813</field>
+			<field name="page_rating_flag">0</field>
+			<field name="page_comment_flag">0</field>
+			<field name="page_password"></field>
+			<field name="page_class">0</field>
+			<field name="page_ip_restrict"></field>
+			<field name="page_template">starter</field>
+			<field name="page_order">70</field>
+			<field name="page_fields"></field>
+			<field name="menu_name">starter</field>
+			<field name="menu_title">Starter</field>
+			<field name="menu_text"><![CDATA[[html]<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>[/html]]]></field>
+			<field name="menu_image">{e_THEME}boots4/install/key.svg</field>
+			<field name="menu_icon"></field>
+			<field name="menu_template">home-services</field>
+			<field name="menu_class">0</field>
+			<field name="menu_button_url"></field>
+			<field name="menu_button_text">fa-laptop</field>
+		</item>
+		<item>
+			<field name="page_id">33</field>
+			<field name="page_title">Our Docs</field>
+			<field name="page_subtitle"></field>
+			<field name="page_sef">home-service-2</field>
+			<field name="page_chapter">18</field>
+			<field name="page_metakeys"></field>
+			<field name="page_metadscr"></field>
+			<field name="page_metaimage"></field>
+			<field name="page_metarobots"></field>
+			<field name="page_text"><![CDATA[[html]<p><strong>Lorem Ipsum</strong><span> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#039;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>[/html]]]></field>
+			<field name="page_author">1</field>
+			<field name="page_datestamp">1484824813</field>
+			<field name="page_rating_flag">0</field>
+			<field name="page_comment_flag">0</field>
+			<field name="page_password"></field>
+			<field name="page_class">0</field>
+			<field name="page_ip_restrict"></field>
+			<field name="page_template">default</field>
+			<field name="page_order">70</field>
+			<field name="page_fields"></field>
+			<field name="menu_name">docs</field>
+			<field name="menu_title">Docs</field>
+			<field name="menu_text"><![CDATA[[html]<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>[/html]]]></field>
+			<field name="menu_image">{e_THEME}boots4/install/edit.svg</field>
+			<field name="menu_icon"></field>
+			<field name="menu_template">home-services</field>
+			<field name="menu_class">0</field>
+			<field name="menu_button_url"></field>
+			<field name="menu_button_text">fa-laptop</field>
+		</item>
+	</dbTable>
+	<dbTable name="page_chapters">
+		<item>
+			<field name="chapter_id">7</field>
+			<field name="chapter_parent">0</field>
+			<field name="chapter_name">Home Page</field>
+			<field name="chapter_sef">homepage</field>
+			<field name="chapter_meta_description"></field>
+			<field name="chapter_meta_keywords"></field>
+			<field name="chapter_manager">0</field>
+			<field name="chapter_icon"></field>
+			<field name="chapter_image"></field>
+			<field name="chapter_order">100</field>
+			<field name="chapter_template">default</field>
+			<field name="chapter_visibility">0</field>
+			<field name="chapter_fields"></field>
+		</item>
+		<item>
+			<field name="chapter_id">11</field>
+			<field name="chapter_parent">7</field>
+			<field name="chapter_name">About Us</field>
+			<field name="chapter_sef">about</field>
+			<field name="chapter_meta_description">The Story of Boots4</field>
+			<field name="chapter_meta_keywords"></field>
+			<field name="chapter_manager">0</field>
+			<field name="chapter_icon">{e_THEME}boots4/install/favorites.svg</field>
+			<field name="chapter_image">{e_THEME}boots4/install/about.jpg</field>
+			<field name="chapter_order">200</field>
+			<field name="chapter_template">default</field>
+			<field name="chapter_visibility">0</field>
+			<field name="chapter_fields">{
+    "__tabs__": {
+        "additional": "Additional"
+    }
+}</field>
+		</item>
+		<item>
+			<field name="chapter_id">12</field>
+			<field name="chapter_parent">7</field>
+			<field name="chapter_name">Service</field>
+			<field name="chapter_sef">about</field>
+			<field name="chapter_meta_description">Our Services</field>
+			<field name="chapter_meta_keywords"></field>
+			<field name="chapter_manager">0</field>
+			<field name="chapter_icon">{e_THEME}boots4/install/favorites.svg</field>
+			<field name="chapter_image">{e_THEME}boots4/install/service.jpg</field>
+			<field name="chapter_order">300</field>
+			<field name="chapter_template">default</field>
+			<field name="chapter_visibility">0</field>
+			<field name="chapter_fields">{
+    "__tabs__": {
+        "additional": "Additional"
+    }
+}</field>
+		</item>
+		<item>
+			<field name="chapter_id">13</field>
+			<field name="chapter_parent">7</field>
+			<field name="chapter_name">Portfolio</field>
+			<field name="chapter_sef">about</field>
+			<field name="chapter_meta_description">Our portfolio</field>
+			<field name="chapter_meta_keywords"></field>
+			<field name="chapter_manager">0</field>
+			<field name="chapter_icon">{e_THEME}boots4/install/favorites.svg</field>
+			<field name="chapter_image">{e_THEME}boots4/install/portfolio.jpg</field>
+			<field name="chapter_order">400</field>
+			<field name="chapter_template">default</field>
+			<field name="chapter_visibility">0</field>
+			<field name="chapter_fields">{
+    "__tabs__": {
+        "additional": "Additional"
+    }
+}</field>
+		</item>
+		<item>
+			<field name="chapter_id">14</field>
+			<field name="chapter_parent">7</field>
+			<field name="chapter_name">Gallery</field>
+			<field name="chapter_sef">about</field>
+			<field name="chapter_meta_description">Our Gallery</field>
+			<field name="chapter_meta_keywords"></field>
+			<field name="chapter_manager">0</field>
+			<field name="chapter_icon">{e_THEME}boots4/install/favorites.svg</field>
+			<field name="chapter_image">{e_THEME}boots4/install/gallery.jpg</field>
+			<field name="chapter_order">500</field>
+			<field name="chapter_template">default</field>
+			<field name="chapter_visibility">0</field>
+			<field name="chapter_fields">{
+    "__tabs__": {
+        "additional": "Additional"
+    }
+}</field>
+		</item>
+		<item>
+			<field name="chapter_id">15</field>
+			<field name="chapter_parent">7</field>
+			<field name="chapter_name">FAQ</field>
+			<field name="chapter_sef">about</field>
+			<field name="chapter_meta_description">Frequently Asked Questions</field>
+			<field name="chapter_meta_keywords"></field>
+			<field name="chapter_manager">0</field>
+			<field name="chapter_icon">{e_THEME}boots4/install/favorites.svg</field>
+			<field name="chapter_image">{e_THEME}boots4/install/faq.jpg</field>
+			<field name="chapter_order">600</field>
+			<field name="chapter_template">default</field>
+			<field name="chapter_visibility">0</field>
+			<field name="chapter_fields">{
+    "__tabs__": {
+        "additional": "Additional"
+    }
+}</field>
+		</item>
+		<item>
+			<field name="chapter_id">16</field>
+			<field name="chapter_parent">7</field>
+			<field name="chapter_name">Contact</field>
+			<field name="chapter_sef">about</field>
+			<field name="chapter_meta_description">Contact Us</field>
+			<field name="chapter_meta_keywords"></field>
+			<field name="chapter_manager">0</field>
+			<field name="chapter_icon">{e_THEME}boots4/install/favorites.svg</field>
+			<field name="chapter_image">{e_THEME}boots4/install/contact.jpg</field>
+			<field name="chapter_order">700</field>
+			<field name="chapter_template">default</field>
+			<field name="chapter_visibility">0</field>
+			<field name="chapter_fields">{
+    "__tabs__": {
+        "additional": "Additional"
+    }
+}</field>
+		</item>
+		<item>
+			<field name="chapter_id">17</field>
+			<field name="chapter_parent">7</field>
+			<field name="chapter_name">Starter</field>
+			<field name="chapter_sef">about</field>
+			<field name="chapter_meta_description">Starter</field>
+			<field name="chapter_meta_keywords"></field>
+			<field name="chapter_manager">0</field>
+			<field name="chapter_icon">{e_THEME}boots4/install/favorites.svg</field>
+			<field name="chapter_image">{e_THEME}boots4/install/starter.jpg</field>
+			<field name="chapter_order">800</field>
+			<field name="chapter_template">default</field>
+			<field name="chapter_visibility">0</field>
+			<field name="chapter_fields">{
+    "__tabs__": {
+        "additional": "Additional"
+    }
+}</field>
+		</item>
+		<item>
+			<field name="chapter_id">18</field>
+			<field name="chapter_parent">7</field>
+			<field name="chapter_name">Docs</field>
+			<field name="chapter_sef">about</field>
+			<field name="chapter_meta_description">Docs</field>
+			<field name="chapter_meta_keywords"></field>
+			<field name="chapter_manager">0</field>
+			<field name="chapter_icon">{e_THEME}boots4/install/favorites.svg</field>
+			<field name="chapter_image">{e_THEME}boots4/install/docs.jpg</field>
+			<field name="chapter_order">900</field>
+			<field name="chapter_template">default</field>
+			<field name="chapter_visibility">0</field>
+			<field name="chapter_fields">{
+    "__tabs__": {
+        "additional": "Additional"
+    }
+}</field>
+		</item>
+	</dbTable>
+	</database>
+</e107Export>

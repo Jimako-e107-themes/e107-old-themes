@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<e107Export version="2.3.1" timestamp="1638654266" >
+	<database>
+	<dbTable name="page">
+		<item>
+			<field name="page_id">19</field>
+			<field name="page_title">About Us</field>
+			<field name="page_subtitle"></field>
+			<field name="page_sef">home-service-1</field>
+			<field name="page_chapter">10</field>
+			<field name="page_metakeys"></field>
+			<field name="page_metadscr"></field>
+			<field name="page_metaimage"></field>
+			<field name="page_metarobots"></field>
+			<field name="page_text"><![CDATA[[html]<p><strong>Lorem Ipsum</strong><span> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#039;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>[/html]]]></field>
+			<field name="page_author">1</field>
+			<field name="page_datestamp">1484824736</field>
+			<field name="page_rating_flag">0</field>
+			<field name="page_comment_flag">0</field>
+			<field name="page_password"></field>
+			<field name="page_class">0</field>
+			<field name="page_ip_restrict"></field>
+			<field name="page_template">default</field>
+			<field name="page_order">10</field>
+			<field name="page_fields"></field>
+			<field name="menu_name">about</field>
+			<field name="menu_title">About Us</field>
+			<field name="menu_text"><![CDATA[[html]<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>[/html]]]></field>
+			<field name="menu_image">{e_MEDIA_IMAGE}2021-12/favorites.svg</field>
+			<field name="menu_icon"></field>
+			<field name="menu_template">home-services</field>
+			<field name="menu_class">0</field>
+			<field name="menu_button_url">fa-lock</field>
+			<field name="menu_button_text">fa-shopping-cart</field>
+		</item>
+		<item>
+			<field name="page_id">20</field>
+			<field name="page_title">Service</field>
+			<field name="page_subtitle"></field>
+			<field name="page_sef">home-service-2</field>
+			<field name="page_chapter">10</field>
+			<field name="page_metakeys"></field>
+			<field name="page_metadscr"></field>
+			<field name="page_metaimage"></field>
+			<field name="page_metarobots"></field>
+			<field name="page_text"><![CDATA[[html]<p><strong>Lorem Ipsum</strong><span> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#039;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>[/html]]]></field>
+			<field name="page_author">1</field>
+			<field name="page_datestamp">1484824813</field>
+			<field name="page_rating_flag">0</field>
+			<field name="page_comment_flag">0</field>
+			<field name="page_password"></field>
+			<field name="page_class">0</field>
+			<field name="page_ip_restrict"></field>
+			<field name="page_template">default</field>
+			<field name="page_order">20</field>
+			<field name="page_fields"></field>
+			<field name="menu_name">service</field>
+			<field name="menu_title">Service</field>
+			<field name="menu_text"><![CDATA[[html]<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>[/html]]]></field>
+			<field name="menu_image">{e_MEDIA_IMAGE}2021-12/suitcase.svg</field>
+			<field name="menu_icon"></field>
+			<field name="menu_template">home-services</field>
+			<field name="menu_class">0</field>
+			<field name="menu_button_url"></field>
+			<field name="menu_button_text">fa-laptop</field>
+		</item>
+		<item>
+			<field name="page_id">21</field>
+			<field name="page_title">Our Portfolio</field>
+			<field name="page_subtitle"></field>
+			<field name="page_sef">home-service-3</field>
+			<field name="page_chapter">10</field>
+			<field name="page_metakeys"></field>
+			<field name="page_metadscr"></field>
+			<field name="page_metaimage"></field>
+			<field name="page_metarobots"></field>
+			<field name="page_text"><![CDATA[[html]<p><strong>Lorem Ipsum</strong><span> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#039;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>[/html]]]></field>
+			<field name="page_author">1</field>
+			<field name="page_datestamp">1484824868</field>
+			<field name="page_rating_flag">0</field>
+			<field name="page_comment_flag">0</field>
+			<field name="page_password"></field>
+			<field name="page_class">0</field>
+			<field name="page_ip_restrict"></field>
+			<field name="page_template">default</field>
+			<field name="page_order">30</field>
+			<field name="page_fields"></field>
+			<field name="menu_name">portfolio</field>
+			<field name="menu_title">Portfoliio</field>
+			<field name="menu_text"><![CDATA[[html]<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>[/html]]]></field>
+			<field name="menu_image">{e_MEDIA_IMAGE}2021-12/heart.svg</field>
+			<field name="menu_icon"></field>
+			<field name="menu_template">home-services</field>
+			<field name="menu_class">0</field>
+			<field name="menu_button_url"></field>
+			<field name="menu_button_text"></field>
+		</item>
+		<item>
+			<field name="page_id">29</field>
+			<field name="page_title">Our Gallery</field>
+			<field name="page_subtitle"></field>
+			<field name="page_sef">home-service-1</field>
+			<field name="page_chapter">10</field>
+			<field name="page_metakeys"></field>
+			<field name="page_metadscr"></field>
+			<field name="page_metaimage"></field>
+			<field name="page_metarobots"></field>
+			<field name="page_text"><![CDATA[[html]<p><strong>Lorem Ipsum</strong><span> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#039;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>[/html]]]></field>
+			<field name="page_author">1</field>
+			<field name="page_datestamp">1484824736</field>
+			<field name="page_rating_flag">0</field>
+			<field name="page_comment_flag">0</field>
+			<field name="page_password"></field>
+			<field name="page_class">0</field>
+			<field name="page_ip_restrict"></field>
+			<field name="page_template">default</field>
+			<field name="page_order">40</field>
+			<field name="page_fields"></field>
+			<field name="menu_name">gallery</field>
+			<field name="menu_title">Gallery</field>
+			<field name="menu_text"><![CDATA[[html]<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>[/html]]]></field>
+			<field name="menu_image">{e_MEDIA_IMAGE}2021-12/image.svg</field>
+			<field name="menu_icon"></field>
+			<field name="menu_template">home-services</field>
+			<field name="menu_class">0</field>
+			<field name="menu_button_url">fa-lock</field>
+			<field name="menu_button_text">fa-shopping-cart</field>
+		</item>
+		<item>
+			<field name="page_id">30</field>
+			<field name="page_title">Our Faqs</field>
+			<field name="page_subtitle"></field>
+			<field name="page_sef">home-service-2</field>
+			<field name="page_chapter">10</field>
+			<field name="page_metakeys"></field>
+			<field name="page_metadscr"></field>
+			<field name="page_metaimage"></field>
+			<field name="page_metarobots"></field>
+			<field name="page_text"><![CDATA[[html]<p><strong>Lorem Ipsum</strong><span> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#039;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>[/html]]]></field>
+			<field name="page_author">1</field>
+			<field name="page_datestamp">1484824813</field>
+			<field name="page_rating_flag">0</field>
+			<field name="page_comment_flag">0</field>
+			<field name="page_password"></field>
+			<field name="page_class">0</field>
+			<field name="page_ip_restrict"></field>
+			<field name="page_template">default</field>
+			<field name="page_order">50</field>
+			<field name="page_fields"></field>
+			<field name="menu_name">faq</field>
+			<field name="menu_title">FAQ</field>
+			<field name="menu_text"><![CDATA[[html]<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>[/html]]]></field>
+			<field name="menu_image">{e_MEDIA_IMAGE}2021-12/computer.svg</field>
+			<field name="menu_icon"></field>
+			<field name="menu_template">home-services</field>
+			<field name="menu_class">0</field>
+			<field name="menu_button_url"></field>
+			<field name="menu_button_text">fa-laptop</field>
+		</item>
+		<item>
+			<field name="page_id">31</field>
+			<field name="page_title">Our Contact</field>
+			<field name="page_subtitle"></field>
+			<field name="page_sef">home-service-3</field>
+			<field name="page_chapter">10</field>
+			<field name="page_metakeys"></field>
+			<field name="page_metadscr"></field>
+			<field name="page_metaimage"></field>
+			<field name="page_metarobots"></field>
+			<field name="page_text"><![CDATA[[html]<p><strong>Lorem Ipsum</strong><span> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#039;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>[/html]]]></field>
+			<field name="page_author">1</field>
+			<field name="page_datestamp">1484824868</field>
+			<field name="page_rating_flag">0</field>
+			<field name="page_comment_flag">0</field>
+			<field name="page_password"></field>
+			<field name="page_class">0</field>
+			<field name="page_ip_restrict"></field>
+			<field name="page_template">default</field>
+			<field name="page_order">60</field>
+			<field name="page_fields"></field>
+			<field name="menu_name">contact</field>
+			<field name="menu_title">Contact</field>
+			<field name="menu_text"><![CDATA[[html]<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>[/html]]]></field>
+			<field name="menu_image">{e_MEDIA_IMAGE}2021-12/placeholder.svg</field>
+			<field name="menu_icon"></field>
+			<field name="menu_template">home-services</field>
+			<field name="menu_class">0</field>
+			<field name="menu_button_url"></field>
+			<field name="menu_button_text"></field>
+		</item>
+		<item>
+			<field name="page_id">32</field>
+			<field name="page_title">Our Starter</field>
+			<field name="page_subtitle"></field>
+			<field name="page_sef">home-service-2</field>
+			<field name="page_chapter">10</field>
+			<field name="page_metakeys"></field>
+			<field name="page_metadscr"></field>
+			<field name="page_metaimage"></field>
+			<field name="page_metarobots"></field>
+			<field name="page_text"><![CDATA[[html]<p><strong>Lorem Ipsum</strong><span> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#039;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>[/html]]]></field>
+			<field name="page_author">1</field>
+			<field name="page_datestamp">1484824813</field>
+			<field name="page_rating_flag">0</field>
+			<field name="page_comment_flag">0</field>
+			<field name="page_password"></field>
+			<field name="page_class">0</field>
+			<field name="page_ip_restrict"></field>
+			<field name="page_template">default</field>
+			<field name="page_order">70</field>
+			<field name="page_fields"></field>
+			<field name="menu_name">starter</field>
+			<field name="menu_title">Starter</field>
+			<field name="menu_text"><![CDATA[[html]<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>[/html]]]></field>
+			<field name="menu_image">{e_MEDIA_IMAGE}2021-12/key.svg</field>
+			<field name="menu_icon"></field>
+			<field name="menu_template">home-services</field>
+			<field name="menu_class">0</field>
+			<field name="menu_button_url"></field>
+			<field name="menu_button_text">fa-laptop</field>
+		</item>
+		<item>
+			<field name="page_id">33</field>
+			<field name="page_title">Our Docs</field>
+			<field name="page_subtitle"></field>
+			<field name="page_sef">home-service-2</field>
+			<field name="page_chapter">10</field>
+			<field name="page_metakeys"></field>
+			<field name="page_metadscr"></field>
+			<field name="page_metaimage"></field>
+			<field name="page_metarobots"></field>
+			<field name="page_text"><![CDATA[[html]<p><strong>Lorem Ipsum</strong><span> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#039;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>[/html]]]></field>
+			<field name="page_author">1</field>
+			<field name="page_datestamp">1484824813</field>
+			<field name="page_rating_flag">0</field>
+			<field name="page_comment_flag">0</field>
+			<field name="page_password"></field>
+			<field name="page_class">0</field>
+			<field name="page_ip_restrict"></field>
+			<field name="page_template">default</field>
+			<field name="page_order">70</field>
+			<field name="page_fields"></field>
+			<field name="menu_name">docs</field>
+			<field name="menu_title">Docs</field>
+			<field name="menu_text"><![CDATA[[html]<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>[/html]]]></field>
+			<field name="menu_image">{e_MEDIA_IMAGE}2021-12/edit.svg</field>
+			<field name="menu_icon"></field>
+			<field name="menu_template">home-services</field>
+			<field name="menu_class">0</field>
+			<field name="menu_button_url"></field>
+			<field name="menu_button_text">fa-laptop</field>
+		</item>
+	</dbTable>
+	<dbTable name="page_chapters">
+		<item>
+			<field name="chapter_id">1</field>
+			<field name="chapter_parent">0</field>
+			<field name="chapter_name">General</field>
+			<field name="chapter_sef">general</field>
+			<field name="chapter_meta_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec et tempor odio. Quisque volutpat lorem nec lectus congue suscipit. In hac habitasse platea dictumst. Etiam odio nisi, egestas vitae amet.</field>
+			<field name="chapter_meta_keywords"></field>
+			<field name="chapter_manager">0</field>
+			<field name="chapter_icon"></field>
+			<field name="chapter_image"></field>
+			<field name="chapter_order">0</field>
+			<field name="chapter_template"></field>
+			<field name="chapter_visibility">0</field>
+			<field name="chapter_fields"></field>
+		</item>
+		<item>
+			<field name="chapter_id">2</field>
+			<field name="chapter_parent">1</field>
+			<field name="chapter_name">Information</field>
+			<field name="chapter_sef">information</field>
+			<field name="chapter_meta_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut nunc ac neque egestas ullamcorper. In convallis semper hendrerit. Etiam non dolor nisl, varius facilisis dui. Nunc egestas massa nunc.</field>
+			<field name="chapter_meta_keywords"></field>
+			<field name="chapter_manager">0</field>
+			<field name="chapter_icon"></field>
+			<field name="chapter_image"></field>
+			<field name="chapter_order">1</field>
+			<field name="chapter_template">default</field>
+			<field name="chapter_visibility">0</field>
+			<field name="chapter_fields"></field>
+		</item>
+		<item>
+			<field name="chapter_id">7</field>
+			<field name="chapter_parent">0</field>
+			<field name="chapter_name">Home Page</field>
+			<field name="chapter_sef">home-page</field>
+			<field name="chapter_meta_description"></field>
+			<field name="chapter_meta_keywords"></field>
+			<field name="chapter_manager">0</field>
+			<field name="chapter_icon"></field>
+			<field name="chapter_image"></field>
+			<field name="chapter_order">600</field>
+			<field name="chapter_template">default</field>
+			<field name="chapter_visibility">0</field>
+			<field name="chapter_fields"></field>
+		</item>
+		<item>
+			<field name="chapter_id">10</field>
+			<field name="chapter_parent">7</field>
+			<field name="chapter_name">Boots</field>
+			<field name="chapter_sef">boots</field>
+			<field name="chapter_meta_description"></field>
+			<field name="chapter_meta_keywords"></field>
+			<field name="chapter_manager">0</field>
+			<field name="chapter_icon"></field>
+			<field name="chapter_image"></field>
+			<field name="chapter_order">601</field>
+			<field name="chapter_template">default</field>
+			<field name="chapter_visibility">0</field>
+			<field name="chapter_fields">{
+    "__tabs__": {
+        "additional": "Additional"
+    }
+}</field>
+		</item>
+	</dbTable>
+	</database>
+</e107Export>

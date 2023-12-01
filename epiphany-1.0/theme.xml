@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Theme name="Epiphany" version="1.0.0" date="2021-09-13" compatibility="2.3.1">
+	<author name ="Jimako" email="jimako@e107sk.com" url="https://www.e107sk.com" />
+	<summary>efiction responsive theme Epiphany by artphilia </summary>
+	<description>efiction responsive theme Epiphany by artphilia</description>
+	<category>efiction</category>
+	<plugins>
+		<plugin name='gallery' url='core' />
+		<plugin name='social' url='core' />
+	</plugins>
+	<keywords>
+		<word>bootstrap</word>
+		<word>clean</word>
+	</keywords>
+	<screenshots>
+		<image>preview_epiphany.jpg</image>
+	</screenshots>
+	<stylesheets>
+		<css file="style.css" name="Default"/>
+	</stylesheets>
+	<layouts>
+		<layout name='index' title='Home Page' >
+			<custompages>FRONTPAGE</custompages>
+		</layout>
+		<layout name='full' title='Forum Page' >
+			<custompages>forum</custompages>
+		</layout>       
+        <layout name='default' title='Default layout' default='true' >
+             <menuPresets>
+				<area id='1'>
+                    <menu name='login' />
+					<menu name='search' />
+					<menu name='news_categories' />
+					<menu name='other_news' />
+					<menu name='other_news2' />
+				</area>   
+                <area id='2'>
+                    <menu name='online' />
+					<menu name='blogcalendar' />
+				</area>    
+			</menuPresets>
+        </layout>     
+		<layout name='efiction' title='Efiction Pages' >
+			<custompages>:efiction</custompages>
+		</layout> 
+	</layouts>
+</e107Theme>
