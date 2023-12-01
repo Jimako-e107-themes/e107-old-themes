@@ -1,0 +1,84 @@
+.accentbgcolor, .btn-primary , .octa:after , .feature-icon, .page-wrapper .tagline:before, .portfolio-filter-list a.active, .team-boxes .separator, .date-icon, .panel-title>a, .panel-title>a.collapsed:hover, .nav-tabs>li.active>a,.nav-tabs>li.active>a:hover, .block1 .btn.color , .thumbbox1 h3, .dentalform, .lrform, .wow-pricing-table>div.featured .wow-pricing-header, .featured .wow-pricing-per,.featured .wow-pricing-cost,.featured .wow-pricing-button .wow-button,.buttoncolor   {
+	background-color:#20b2aa;
+}
+a, .accentcolor, .unstyle li:before, .feature.business i , .funfacts .counter{
+	color:#20b2aa;
+}
+.btn-primary, .portfolio-filter-list a.active, .portfolio-items article .overlay h3:after , .nav-tabs>li.active>a,.nav-tabs>li.active>a:hover, .block1 .btn.color, .knowledgebase h3 {
+	border-color:#20b2aa;
+}
+.funfacts .counter{
+	color:#fff;
+}
+
+@media (min-width:768px) {
+.redq .columns ul a:hover,ul.sub-menu a:hover,.redq a:hover, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .default-skin .redq a:hover {
+	color:#fff;
+	}
+.default-skin .redq .dropdown-menu, .default-skin ul.sub-menu {
+  border-top-color: #20b2aa;
+	}
+
+}
+/* fixes */
+.pagination>li>a {
+	color: #20b2aa;
+}
+ 
+.pagination>li>a:focus, .pagination>li>a:hover {
+    color: white;
+    background-color: #20b2aa;
+}
+
+.pagination>.disabled>a, .pagination>.disabled>a:focus, .pagination>.disabled>a:hover  {
+    color: white;
+    background-color: #20b2aa;
+}
+
+.thumbbox1 .comment-author {
+    background-color: #20b2aa;
+    color: #fff; 
+}
+
+.header3   {
+    background: #20b2aa !important;  
+    border: none; 
+}
+
+.progress-bar {
+    background-color: #20b2aa;
+}
+
+.gsitemap ul li:before {
+    content: "\f061 ";
+    font-family: FontAwesome;
+    margin-right: 5px;
+    color: #20b2aa;
+}
+
+.knowledgebase #sidebar li.active {
+    border: 0 #20b2aa solid;
+	border-right-width: 5px;
+}
+
+.sidebar-menu {
+	border-left: 7px solid #20b2aa;
+}
+
+.sidebar .sidebar-menu:nth-child(odd) { 
+    background-color: #20b2aa;
+}
+
+.bg-primary {
+	background-color: #20b2aa;
+} 
+
+#e-comment-form .thumbbox1 {
+	background-color: #20b2aa;
+}
+
+.comment-box .media,
+.comment-box.media:first-child {
+	border-left: 7px solid #20b2aa;
+}
+

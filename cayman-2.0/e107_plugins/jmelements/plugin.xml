@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Plugin name="JM Elements" lan="LAN_JM_ELEMENTS_LAN_04" version="2.3.9" date="2021-03-15" compatibility="2.3.1" installRequired="true" >
+	<author name="Jimako" url="https://www.e107sk.com" />
+	<summary lan="LAN_JM_ELEMENTS_LAN_05">Content Elements Plugin - easy way how to add specific elements to your content </summary>
+	<description lan="LAN_JM_ELEMENTS_LAN_05">Content Elements Plugin - easy way how to add specific elements to your content</description>
+	<keywords>
+		<word>generic</word>
+		<word>menus</word>
+		<word>services</word>
+	</keywords>
+	<category>content</category>
+	<copyright>e107sk</copyright>
+	<adminLinks>
+		<link url="admin/admin_config.php" description="" icon="images/_icon_32.png" iconSmall="images/_icon_16.png" icon128="images/_icon_128.png" primary="true" >LAN_CONFIGURE</link>
+	</adminLinks>	
+</e107Plugin>

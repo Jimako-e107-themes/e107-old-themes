@@ -1,0 +1,83 @@
+.accentbgcolor, .btn-primary , .octa:after , .feature-icon, .page-wrapper .tagline:before, .portfolio-filter-list a.active, .team-boxes .separator, .date-icon, .panel-title>a, .panel-title>a.collapsed:hover, .nav-tabs>li.active>a,.nav-tabs>li.active>a:hover, .block1 .btn.color , .thumbbox1 h3, .dentalform, .lrform, .wow-pricing-table>div.featured .wow-pricing-header, .featured .wow-pricing-per,.featured .wow-pricing-cost,.featured .wow-pricing-button .wow-button,.buttoncolor   {
+	background-color:#ff692a;
+}
+a, .accentcolor, .unstyle li:before, .feature.business i , .funfacts .counter{
+	color:#ff692a;
+}
+.btn-primary, .portfolio-filter-list a.active, .portfolio-items article .overlay h3:after , .nav-tabs>li.active>a,.nav-tabs>li.active>a:hover, .block1 .btn.color, .knowledgebase h3 {
+	border-color:#ff692a;
+}
+.funfacts .counter{
+	color:#fff;
+}
+
+@media (min-width:768px) {
+.redq .columns ul a:hover,ul.sub-menu a:hover,.redq a:hover, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .default-skin .redq a:hover {
+	color:#fff;
+	}
+.default-skin .redq .dropdown-menu, .default-skin ul.sub-menu {
+  border-top-color: #ff692a;
+	}
+
+}
+
+/* fixes */
+.pagination>li>a {
+	color: #ff692a;
+}
+ 
+.pagination>li>a:focus, .pagination>li>a:hover {
+    color: white;
+    background-color: #ff692a;
+}
+
+.pagination>.disabled>a, .pagination>.disabled>a:focus, .pagination>.disabled>a:hover  {
+    color: white;
+    background-color: #ff692a;
+}
+
+.thumbbox1 .comment-author {
+    background-color: #ff692a;
+    color: #fff; 
+}
+
+.header3   {
+    background: #ff692a !important;  
+    border: none; 
+}
+
+.progress-bar {
+    background-color: #ff692a;
+}
+
+.gsitemap ul li:before {
+    content: "\f061 ";
+    font-family: FontAwesome;
+    margin-right: 5px;
+    color: #ff692a;
+}
+
+.knowledgebase #sidebar li.active {
+    border: 0 #ff692a solid;
+}
+
+.sidebar-menu {
+	border-left: 7px solid #ff692a;
+}
+
+.sidebar .sidebar-menu:nth-child(odd) { 
+    background-color: #ff692a;
+}
+
+.bg-primary {
+	background-color: #ff692a;
+} 
+
+#e-comment-form .thumbbox1 {
+	background-color: #ff692a;
+}
+
+.comment-box .media,
+.comment-box.media:first-child {
+	border-left: 7px solid #ff692a;
+}

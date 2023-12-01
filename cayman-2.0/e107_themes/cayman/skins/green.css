@@ -1,0 +1,88 @@
+.accentbgcolor, .btn-primary , .octa:after , .feature-icon, .page-wrapper .tagline:before, .portfolio-filter-list a.active, .team-boxes .separator, .date-icon, .panel-title>a, .panel-title>a.collapsed:hover, .nav-tabs>li.active>a,.nav-tabs>li.active>a:hover, .block1 .btn.color , .thumbbox1 h3, .dentalform, .lrform, .wow-pricing-table>div.featured .wow-pricing-header, .featured .wow-pricing-per,.featured .wow-pricing-cost,.featured .wow-pricing-button .wow-button,.buttoncolor   {
+	background-color:#137e91;
+}
+a, .accentcolor, .unstyle li:before, .feature.business i , .funfacts .counter{
+	color:#137e91;
+}
+.btn-primary, .portfolio-filter-list a.active, .portfolio-items article .overlay h3:after , .nav-tabs>li.active>a,.nav-tabs>li.active>a:hover, .block1 .btn.color, .knowledgebase h3 {
+	border-color:#137e91;
+}
+.funfacts .counter{
+	color:#fff;
+}
+
+@media (min-width:768px) {
+.redq .columns ul a:hover,ul.sub-menu a:hover,.redq a:hover, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .default-skin .redq a:hover {
+	color:#fff;
+	}
+.default-skin .redq .dropdown-menu, .default-skin ul.sub-menu {
+  border-top-color: #137e91;
+	}
+
+}
+/* fixes */
+.pagination>li>a {
+	color: #137e91;
+}
+ 
+.pagination>li>a:focus, .pagination>li>a:hover {
+    color: white;
+    background-color: #137e91;
+}
+
+.pagination>.disabled>a, .pagination>.disabled>a:focus, .pagination>.disabled>a:hover  {
+    color: white;
+    background-color: #137e91;
+}
+
+.thumbbox1 .comment-author {
+    background-color: #137e91;
+    color: #fff; 
+}
+
+.header3   {
+    background: #137e91 !important;  
+    border: none; 
+}
+
+.progress-bar {
+    background-color: #137e91;
+}
+
+.gsitemap ul li:before {
+    content: "\f061 ";
+    font-family: FontAwesome;
+    margin-right: 5px;
+    color: #137e91;
+}
+
+.knowledgebase #sidebar li.active {
+    border: 0 #137e91 solid;
+	border-right-width: 5px;
+}
+
+.sidebar-menu {
+	border-left: 7px solid #137e91;
+}
+
+.sidebar .sidebar-menu:nth-child(odd) { 
+    background-color: #137e91;
+}
+
+.sidebar .sidebar-menu:nth-child(odd) .contactMenuForm .form-group{ 
+    color: white;
+}
+
+.bg-primary {
+	background-color: #137e91;
+} 
+
+#e-comment-form .thumbbox1 {
+	background-color: #137e91;
+}
+
+.comment-box .media,
+.comment-box.media:first-child {
+	border-left: 7px solid #137e91;
+}
+

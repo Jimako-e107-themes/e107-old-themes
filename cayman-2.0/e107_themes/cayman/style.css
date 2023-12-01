@@ -1,0 +1,315 @@
+ /* fix for mobile menu */
+ .redq .dropdown .sub-menu {
+    display: none;
+}
+
+ .redq .dropdown.open .sub-menu {
+	display: block;
+}
+
+header {
+	background: #222;
+}
+
+/* fix for dropdown avatar */
+@media (min-width: 768px) {
+	.header2 .navbar-default .navbar-nav>li.dropdown-avatar,
+	.header2 .navbar-default .navbar-nav>li.dropdown-pm {
+		padding: 18px 5px!important;
+	}	
+}
+ 
+/* fix for list news / category page */
+.news-wrapper {
+	padding: 40px 20px;
+    clear: both;
+    float: none;
+    position: relative;
+    background-color: #fff;
+}
+
+.news-frontend .page-wrapper:nth-child(odd) { 
+	background-color: #f9f9f9; 
+}
+ 
+nav.nav-pagination {
+	text-align: center;
+}
+
+/* pagination */
+.pagination>li>a {
+	padding: 10px 20px;
+}
+ 
+.news-body {
+    text-align: left;
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: 300;
+	margin-bottom: 30px;
+}
+
+.news-body-extended {
+    text-align: left;
+    font-size: 16px;
+    margin-top: 10px;
+    font-weight: 300;
+	margin-bottom: 30px;
+}
+
+.news-wrapimg {
+    border-radius: 0px; 
+    border: 13px solid #eee;
+    max-width: 97%;
+    -webkit-box-shadow: 10px 10px 5px 0px rgb(209 209 209);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(209,209,209,1);
+	box-shadow: 10px 10px 5px 0px rgb(209 209 209);
+	background: #eee;
+}
+ 
+.thumbbox1 h3 a {
+    color: #fff; 
+}
+
+.page-wrapper h4.title {
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: 300;
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+
+.article h2.title {
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: 300;
+    text-align: center;
+    margin: 20px 0 5px 0;
+}
+
+.thumbbox1 .comment-author {
+    font-size: 12px;
+    text-transform: uppercase;
+    padding: 7px 10px; 
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.thumbbox1 .comment-author a {
+    color: #fff; 
+}
+
+/* single forms */
+
+.layout-singleform  .parallax-content   {
+	padding: 40px 0;
+}
+
+.layout-singleform .page-wrapper .row {
+	margin-bottom: 15px;
+ 
+}
+
+.membersonly .logo{
+  margin: 0 auto;
+}
+
+.page-wrapper.membersonly  .row {
+	margin-bottom: 15px;
+}
+
+.dentalform .tbox {
+	width: 100%;
+} 
+
+.sidebar {
+	padding: 40px 20px;
+}
+
+ 
+
+.sidebar-menu {
+    padding: 30px;
+    background-color: #fff;
+    margin-bottom: 30px;
+	 
+}
+
+.sidebar .sidebar-menu:nth-child(odd) { 
+ 
+}
+
+.sidebar .sidebar-menu:nth-child(odd) h4{ 
+     color: white;
+}
+
+.header3 .navbar-default .navbar-nav > li > a:hover, 
+.header3 .navbar-default .navbar-nav > li > a:focus {
+    color: #333;
+}
+
+/*  User profile */ 
+.user-profile .panel-default>.panel-heading {
+    position: initial;
+    padding: 16px 0px 14px 16px;
+}
+
+ .page-wrapper .user-profile .row {
+    margin-bottom: initial;
+}
+
+.user-profile .panel-profile .panel-heading h5.user-id {
+    color: initial;
+}
+
+.tbox.form-control {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 4px;
+    letter-spacing: 1px;
+    font-size: 11px;
+}
+
+/* users list fix */
+.user-list .btn {
+    margin-top: initial;
+}
+
+/* Fixing active state color*/
+.open>.dropdown-toggle.btn-primary:focus, 
+.open>.dropdown-toggle.btn-primary:hover {
+    background-color:#303543;
+    border-color:#303543;
+} 
+
+.btn-primary:active, .btn-primary.active, 
+.open > .dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #303543;
+    background-image: none;
+    border-color: #303543;
+}
+
+/* buttons size fix */
+.btn.btn-mini,
+.btn.btn-sm,
+.btn.btn-small {
+    padding: 5px 10px;
+}
+/* bbcodes fix */
+.bbcode-panel .btn{
+    padding: 12px 15px;
+}
+ 
+
+/* fix for tracking button */
+#forum-track .btn {
+    padding: 5px 10px;
+}
+
+.page-wrapper #forum-viewforum .row {
+    margin-bottom: 5px;
+}
+
+
+/* fix for pager button */
+.pager li>a {
+    padding: 10px 15px;
+    background-color: #ffd700;
+    border: 1px solid rgba(0,0,0,0.05);
+    border-radius: 3px;
+    color: white;
+}
+.pager li>a:hover {
+    background-color: #303543;
+    border-color: #303543;
+}
+
+.gsitemap ul  {
+    padding-left: 10px;
+    line-height: 1.7;
+}
+
+.gsitemap ul li {
+    list-style: none;
+    margin: 8px;
+}
+ 
+
+/* fix for dropdown open */
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover, 
+.navbar-default .navbar-nav > .open > a:focus {
+  background-color: transparent;  
+}
+
+
+/* fix for dropdown background */
+.default-skin.header.on  .dropdown-menu {
+    background: #252934;
+} 
+
+.darker-span {
+	filter: brightness(50%);
+  }
+
+.btn-default {
+ 
+    color: black;
+}
+
+
+
+.comment-options {
+	text-align: center;
+}
+
+.contactMenuForm input,
+.contactMenuForm textarea 
+{
+	border: 1px solid lightgrey;
+}
+
+#blogCalendar.carousel,
+.blogcalendar-block .carousel-inner>.item {
+    min-height: initial;  
+    max-height: initial;
+}
+
+a.blogcalendar-archive-link,
+a.blogcalendar-archive-link.btn.btn-small 
+ {
+	font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+	border: 1px solid rgba(0,0,0,0.05);
+    border-radius: 3px;
+	padding: 12px 14px!important;
+	color: black!important;
+    font-weight: 600;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+	background-color: #ffd700;
+    
+}
+
+a.blogcalendar-archive-link:active:hover {
+	color: #333;
+    background-color: #d4d4d4;
+    border-color: #8c8c8c;
+	box-shadow: inset 0 3px 5px rgb(0 0 0 / 13%);
+}
+
+
+
+#footer .list-group-item {
+    background: transparent;
+    border: none;
+}
+
+
+.btn-wrap {
+    word-wrap: break-word;
+    white-space: normal;
+}

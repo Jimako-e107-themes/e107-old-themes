@@ -1,0 +1,533 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<e107Export version="2.3.1 (git)" timestamp="1612793052" >
+	<themePrefs>
+		<cayman-child name="branding">logo</cayman-child>
+		<cayman-child name="parent_theme">cayman</cayman-child>
+	</themePrefs>
+	<database>
+	<dbTable name="page">
+		<item>
+			<field name="page_id">1</field>
+			<field name="page_title">Pricing Tables</field>
+			<field name="page_subtitle">SHOW YOUR PRICING LISTS</field>
+			<field name="page_sef">pricing-tables</field>
+			<field name="page_chapter"></field>
+			<field name="page_metakeys"></field>
+			<field name="page_metadscr"></field>
+			<field name="page_metarobots"></field>
+			<field name="page_text"><![CDATA[[html]<p style=&quot;text-align: center;&quot;><span>This is an example of how to use the Pricing list element directly in the page body (without a menu)</span></p>
+<p style=&quot;text-align: center;&quot;><span>{ELEMENTS: mode=pricing&amp;template=pricing}</span></p>[/html]]]></field>
+			<field name="page_author">1</field>
+			<field name="page_datestamp">1366149600</field>
+			<field name="page_rating_flag">0</field>
+			<field name="page_comment_flag">0</field>
+			<field name="page_password"></field>
+			<field name="page_class">0</field>
+			<field name="page_ip_restrict"></field>
+			<field name="page_template">default</field>
+			<field name="page_order"></field>
+			<field name="page_fields"></field>
+			<field name="menu_name"></field>
+			<field name="menu_title"></field>
+			<field name="menu_text"></field>
+			<field name="menu_image"></field>
+			<field name="menu_icon"></field>
+			<field name="menu_template"></field>
+			<field name="menu_class">0</field>
+			<field name="menu_button_url"></field>
+			<field name="menu_button_text"></field>
+		</item>
+	</dbTable>
+	<dbTable name="jmlayout">
+		<item>
+			<field name="layout_id">1</field>
+			<field name="layout_mode">home</field>
+			<field name="layout_setting">options_none.php</field>
+			<field name="layout_title">Default Home</field>
+			<field name="layout_order">0</field>
+			<field name="layout_options"></field>
+			<field name="layout_header">header_default.html</field>
+			<field name="layout_footer">footer_default.html</field>
+		</item>
+		<item>
+			<field name="layout_id">2</field>
+			<field name="layout_mode">full</field>
+			<field name="layout_setting">options_default.php</field>
+			<field name="layout_title">Full Page</field>
+			<field name="layout_order">0</field>
+			<field name="layout_options"></field>
+			<field name="layout_header">header_default.html</field>
+			<field name="layout_footer">footer_default.html</field>
+		</item>
+		<item>
+			<field name="layout_id">3</field>
+			<field name="layout_mode">sidebar</field>
+			<field name="layout_setting">options_default.php</field>
+			<field name="layout_title">Right Sidebar</field>
+			<field name="layout_order">0</field>
+			<field name="layout_options"></field>
+			<field name="layout_header">header_default.html</field>
+			<field name="layout_footer">footer_default.html</field>
+		</item>
+		<item>
+			<field name="layout_id">4</field>
+			<field name="layout_mode">singleform</field>
+			<field name="layout_setting">options_default.php</field>
+			<field name="layout_title">Single form</field>
+			<field name="layout_order">0</field>
+			<field name="layout_options">{
+    "fields": {
+        "no-image": "0",
+        "background-image-url": "",
+        "background-image": "{e_THEME}cayman/install/demo/bg2.jpg",
+        "bodyclass": ""
+    }
+}</field>
+			<field name="layout_header">header_default.html</field>
+			<field name="layout_footer">footer_default.html</field>
+		</item>
+		<item>
+			<field name="layout_id">5</field>
+			<field name="layout_mode">contact</field>
+			<field name="layout_setting">options_contact.php</field>
+			<field name="layout_title">Contact page</field>
+			<field name="layout_order">0</field>
+            <field name="layout_options"><![CDATA[{
+    "fields": {
+        "no-image": "0",
+        "background-image-url": "",
+        "background-image": "{e_THEME}cayman\/install\/demo\/count.jpg",
+        "maintitle": "<b>CONTACT<\/b> US",
+        "subtitle": "GET IN TOUCH WITH OUR TEAM",
+        "googlemap": "",
+        "bodyclass": ""
+    }
+}]]></field>
+			<field name="layout_header">header_default.html</field>
+			<field name="layout_footer">footer_default.html</field>
+		</item>
+		<item>
+			<field name="layout_id">6</field>
+			<field name="layout_mode">book</field>
+			<field name="layout_setting">options_default.php</field>
+			<field name="layout_title">Book</field>
+			<field name="layout_order">0</field>
+			<field name="layout_options">{
+    "fields": {
+        "no-image": "0",
+        "background-image-url": "",
+        "background-image": "{e_THEME}cayman/install/demo/headerred.webp",
+        "bodyclass": ""
+    }
+}</field>
+			<field name="layout_header">header_default.html</field>
+			<field name="layout_footer">footer_default.html</field>
+		</item>
+       <item>
+			<field name="layout_id">7</field>
+			<field name="layout_mode">default</field>
+			<field name="layout_setting">options_default.php</field>
+			<field name="layout_title">Default Page</field>
+			<field name="layout_order">0</field>
+			<field name="layout_options">{
+    "fields": {
+        "no-image": "0",
+        "background-image-url": "",
+        "background-image": "{e_THEME}cayman/install/demo/bg3.jpg",
+        "bodyclass": ""
+    }
+}</field>
+			<field name="layout_header">header_default.html</field>
+			<field name="layout_footer">footer_default.html</field>
+		</item>
+	</dbTable>
+	<dbTable name="menus">
+		<item>
+			<field name="menu_id">104</field>
+			<field name="menu_name">element_menu</field>
+			<field name="menu_location">11</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">jmelements/</field>
+			<field name="menu_layout">home</field>
+			<field name="menu_parms">{
+    "lastname_74758209201093747": "",
+    "shortcode_menuCaption": {
+        "English": ""
+    },
+    "element": "features",
+    "template": "features",
+    "shortcode_menuTableStyle": ""
+}</field>
+		</item>
+		<item>
+			<field name="menu_id">106</field>
+			<field name="menu_name">element_menu</field>
+			<field name="menu_location">11</field>
+			<field name="menu_order">2</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">jmelements/</field>
+			<field name="menu_layout">home</field>
+			<field name="menu_parms">{
+    "lastname_74758209201093747": "",
+    "shortcode_menuCaption": {
+        "English": ""
+    },
+    "element": "aboutus",
+    "template": "split",
+    "shortcode_menuTableStyle": ""
+}</field>
+		</item>
+		<item>
+			<field name="menu_id">107</field>
+			<field name="menu_name">element_menu</field>
+			<field name="menu_location">11</field>
+			<field name="menu_order">3</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">jmelements/</field>
+			<field name="menu_layout">home</field>
+			<field name="menu_parms">{
+    "lastname_74758209201093747": "",
+    "shortcode_menuCaption": {
+        "English": ""
+    },
+    "element": "testimonials",
+    "template": "testimonials",
+    "shortcode_menuTableStyle": ""
+}</field>
+		</item>
+	</dbTable>
+	<dbTable name="jmelement">
+	<item>
+			<field name="element_id">1</field>
+			<field name="element_mode">homeintro</field>
+			<field name="element_setting">default_headers</field>
+			<field name="element_description"></field>
+			<field name="element_items">0</field>
+			<field name="element_title">1. Home Intro</field>
+			<field name="element_image">{e_THEME}cayman/install/elements/element00.webp</field>
+			<field name="element_template">animatedintro</field>
+			<field name="element_order">1</field>
+			<field name="element_options">{
+    "fields": {
+        "section_intro": "Cayman",
+        "section_title": "e107 theme",
+        "section_subtitle": "for e107 Bootstrap CMS",
+        "section_desc": "",
+        "section_bgimage": "{e_THEME}cayman\/assets\/img\/header.jpg",
+        "button01_text": "Tell me more",
+        "button01_url": "https:\/\/www.e107sk.com\/themes\/cayman-theme",
+        "button01_class": "btn-default",
+        "button02_text": "Purchase now",
+        "button02_url": "https:\/\/www.e107sk.com\/easystore\/e107-themes\/cayman-e107-theme",
+        "button02_class": "btn-primary"
+    }
+}</field>
+			<field name="element_active">1</field>
+		</item>
+		<item>
+			<field name="element_id">2</field>
+			<field name="element_mode">features</field>
+			<field name="element_setting">features</field>
+			<field name="element_description">2 icons boxes on homepage</field>
+			<field name="element_items">3</field>
+			<field name="element_title">1. Features</field>
+			<field name="element_image">{e_THEME}cayman/install/elements/element02.webp</field>
+			<field name="element_template">features</field>
+			<field name="element_order">1</field>
+			<field name="element_options">{
+    "fields": {
+        "section_title": "See it in action",
+        "section_subtitle": "Cayman is the most flexible and complete theme.",
+        "section_subtitle2": " Its modern and fully responsive design best fits into current web trends."
+    },
+    "items": [
+        {
+            "item_iconname": "fa fa-user",
+            "item_delay": "0.1",
+            "item_title": "MODERN",
+            "item_desc": "Wide range of out of the box solutions. You can actually build any kind of website with Cayman. Personalize your site without coding expertise or design skills."
+        },
+        {
+            "item_iconname": "flash",
+            "item_delay": "0.4",
+            "item_title": "Creative",
+            "item_desc": "Choose from multiple unique designs Cayman offers. You won't look for a new theme any time soon. User-friendly grid, based on the super popular Bootstrap."
+        },
+        {
+            "item_iconname": "microphone",
+            "item_delay": "0.7",
+            "item_title": "Responsive",
+            "item_desc": "Wide range of out of the box solutions. You can actually build any kind of website with Cayman. Personalize your site without coding expertise or design skills."
+        }
+    ]
+}</field>
+			<field name="element_active">1</field>
+		</item>
+		<item>
+			<field name="element_id">3</field>
+			<field name="element_mode">aboutus</field>
+			<field name="element_setting">split</field>
+			<field name="element_description">3 full width columns with image and text</field>
+			<field name="element_items">0</field>
+			<field name="element_title">3. About Us</field>
+			<field name="element_image">{e_THEME}cayman/install/elements/aboutus.jpg</field>
+			<field name="element_template">split</field>
+			<field name="element_order">2</field>
+			<field name="element_options"><![CDATA[{
+    "fields": {
+        "section_intro": "<i class=\"fa fa-shopping-cart fa-3x\"><\/i>",
+        "section_title": "LITTLE ABOUT US",
+        "section_subtitle": "BEST CHOICE",
+        "section_desc": "The support... I can only say it's awesome. You make a product and you help people out any way you can even if it means that you have to log in on their dashboard to sort out any problems that customer might have. Simply Outstanding!",
+        "section_bgimage": "{e_THEME}cayman/install/demo/1.jpg"
+    }
+}]]></field>
+			<field name="element_active">1</field>
+		</item>
+		<item>
+			<field name="element_id">4</field>
+			<field name="element_mode">testimonials</field>
+			<field name="element_setting">testimonial</field>
+			<field name="element_description"></field>
+			<field name="element_items">3</field>
+			<field name="element_title">4. Testimonials</field>
+			<field name="element_image">{e_THEME}cayman/install/elements/element01.webp</field>
+			<field name="element_template">testimonials</field>
+			<field name="element_order">3</field>
+			<field name="element_options"><![CDATA[{
+    "items": [
+        {
+            "item_title": "T1 Thank you, <span class=\"accentcolor\">Verna<\/span> Ramsey",
+            "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam consectetur, sapien at eleifend eleifend, risus sem faucibus metus, ut rhoncus turpis risus at magna. Aliquam vitae diam aliquet, blandit nulla eu, blandit mi. Nulla consectetur risus neque, id tincidunt dolor posuere non.",
+            "item_photo": "",
+            "item_subtitle": "",
+            "item_url": ""
+        },
+        {
+            "item_title": "T2 My House is now a <span class=\"accentcolor\">Home<\/span>",
+            "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam consectetur, sapien at eleifend eleifend, risus sem faucibus metus, ut rhoncus turpis risus at magna. Aliquam vitae diam aliquet, blandit nulla eu, blandit mi. Nulla consectetur risus neque, id tincidunt dolor posuere non.",
+            "item_photo": "",
+            "item_subtitle": "",
+            "item_url": ""
+        },
+        {
+            "item_title": "T3 <span class=\"accentcolor\">My House<\/span> is now a Home",
+            "item_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam consectetur, sapien at eleifend eleifend, risus sem faucibus metus, ut rhoncus turpis risus at magna. Aliquam vitae diam aliquet, blandit nulla eu, blandit mi. Nulla consectetur risus neque, id tincidunt dolor posuere non.",
+            "item_photo": "",
+            "item_subtitle": "",
+            "item_url": ""
+        }
+    ],
+    "fields": {
+        "section_intro": "",
+        "section_title": "",
+        "section_subtitle": "",
+        "section_bgimage": ""
+    }
+}]]></field>
+			<field name="element_active">1</field>
+		</item>   
+        		<item>
+			<field name="element_id">5</field>
+			<field name="element_mode">pricing</field>
+			<field name="element_setting">pricing</field>
+			<field name="element_description"></field>
+			<field name="element_items">3</field>
+			<field name="element_title">5. Pricing</field>
+			<field name="element_image">{e_THEME}cayman/install/elements/element_pricing.webp</field>
+			<field name="element_template">pricing</field>
+			<field name="element_order">4</field>
+			<field name="element_options"><![CDATA[{
+    "fields": {
+        "section_title": "PRICING 3 or 4 COLUMNS",
+        "section_subtitle": "Three Columns Pricing or Four Columns Pricing"
+    },
+    "items": [
+        {
+            "item_title": "Silver",
+            "item_columnclass": "col-md-4",
+            "item_class": "",
+            "item_price": "$69.99",
+            "item_subtitle": "per month",
+            "item_desc": "<ul>\t\t\t\t\t\t\r\n    <li>5 products\r\n    <\/li>\t\t\t\t\t\t\r\n    <li>1 image per product\r\n    <\/li>\t\t\t\t\t\t\r\n    <li>basic stats\r\n    <\/li>\t\t\t\t\t\t\r\n    <li>non commercial\r\n    <\/li>\t\t\t\t\t\r\n<\/ul>",
+            "item_button": "Sign Up",
+            "item_url": "https:\/\/www.e107sk.com\/themes\/cayman-theme"
+        },
+        {
+            "item_title": "Premium",
+            "item_columnclass": "col-md-4",
+            "item_class": "featured",
+            "item_price": "$339.99",
+            "item_subtitle": "per month",
+            "item_desc": "<ul>\t\t\t\t\t\t\r\n    <li>10 products\r\n    <\/li>\t\t\t\t\t\t\r\n    <li>1 image per product\r\n    <\/li>\t\t\t\t\t\t\r\n    <li>basic stats\r\n    <\/li>\t\t\t\t\t\t\r\n    <li>non commercial\r\n    <\/li>\t\t\t\t\t\r\n<\/ul>",
+            "item_button": "Sign Up",
+            "item_url": "https:\/\/www.e107sk.com\/themes\/cayman-theme"
+        },
+        {
+            "item_title": "Ultimate",
+            "item_columnclass": "col-md-4",
+            "item_class": "",
+            "item_price": "$429.99",
+            "item_subtitle": "per month",
+            "item_desc": "<ul>\t\t\t\t\t\t\r\n    <li>15 products\r\n    <\/li>\t\t\t\t\t\t\r\n    <li>1 image per product\r\n    <\/li>\t\t\t\t\t\t\r\n    <li>basic stats\r\n    <\/li>\t\t\t\t\t\t\r\n    <li>non commercial\r\n    <\/li>\t\t\t\t\t\r\n<\/ul>",
+            "item_button": "Sign Up",
+            "item_url": "https:\/\/www.e107sk.com\/themes\/cayman-theme"
+        }
+    ]
+}]]></field>
+			<field name="element_active">1</field>
+		</item>
+	</dbTable>
+	<dbTable name="page_chapters">
+		<item>
+			<field name="chapter_id">1</field>
+			<field name="chapter_parent">0</field>
+			<field name="chapter_name">Book</field>
+			<field name="chapter_sef">book</field>
+			<field name="chapter_meta_description"></field>
+			<field name="chapter_meta_keywords"></field>
+			<field name="chapter_manager">0</field>
+			<field name="chapter_icon"></field>
+			<field name="chapter_image">{e_THEME}cayman/install/demo/random2.jpg</field>
+			<field name="chapter_order">0</field>
+			<field name="chapter_template">default</field>
+			<field name="chapter_visibility">0</field>
+			<field name="chapter_fields">{
+    "__tabs__": {
+        "additional": "Additional"
+    }
+}</field>
+		</item>
+		<item>
+			<field name="chapter_id">2</field>
+			<field name="chapter_parent">1</field>
+			<field name="chapter_name">Chapter 1</field>
+			<field name="chapter_sef">chapter-1</field>
+			<field name="chapter_meta_description">This is chapter description text</field>
+			<field name="chapter_meta_keywords"></field>
+			<field name="chapter_manager">0</field>
+			<field name="chapter_icon"></field>
+			<field name="chapter_image">{e_THEME}cayman/install/demo/p1.jpg</field>
+			<field name="chapter_order">0</field>
+			<field name="chapter_template">singlechapter</field>
+			<field name="chapter_visibility">0</field>
+			<field name="chapter_fields">{
+    "__tabs__": {
+        "additional": "Additional"
+    }
+}</field>
+		</item>
+		<item>
+			<field name="chapter_id">3</field>
+			<field name="chapter_parent">1</field>
+			<field name="chapter_name">Chapter 2</field>
+			<field name="chapter_sef">chapter-2</field>
+			<field name="chapter_meta_description"></field>
+			<field name="chapter_meta_keywords"></field>
+			<field name="chapter_manager">0</field>
+			<field name="chapter_icon"></field>
+			<field name="chapter_image">{e_THEME}cayman/install/demo/p6.jpg</field>
+			<field name="chapter_order">0</field>
+			<field name="chapter_template">singlechapter</field>
+			<field name="chapter_visibility">0</field>
+			<field name="chapter_fields">{
+    "__tabs__": {
+        "additional": "Additional"
+    }
+}</field>
+		</item>
+		<item>
+			<field name="chapter_id">4</field>
+			<field name="chapter_parent">0</field>
+			<field name="chapter_name">Portfolio</field>
+			<field name="chapter_sef">portfolio</field>
+			<field name="chapter_meta_description">Lorem ipsum dolor sit amet consectetur.</field>
+			<field name="chapter_meta_keywords"></field>
+			<field name="chapter_manager">0</field>
+			<field name="chapter_icon"></field>
+			<field name="chapter_image">{e_THEME}cayman/install/demo/random12.jpg</field>
+			<field name="chapter_order">200</field>
+			<field name="chapter_template">portfolio</field>
+			<field name="chapter_visibility">0</field>
+			<field name="chapter_fields">{
+    "__tabs__": {
+        "additional": "Additional"
+    }
+}</field>
+		</item>
+		<item>
+			<field name="chapter_id">5</field>
+			<field name="chapter_parent">4</field>
+			<field name="chapter_name">Web Design</field>
+			<field name="chapter_sef">web-design</field>
+			<field name="chapter_meta_description">Lorem ipusym</field>
+			<field name="chapter_meta_keywords"></field>
+			<field name="chapter_manager">0</field>
+			<field name="chapter_icon"></field>
+			<field name="chapter_image">{e_THEME}cayman/install/demo/p1.jpg</field>
+			<field name="chapter_order">203</field>
+			<field name="chapter_template">portfolio</field>
+			<field name="chapter_visibility">0</field>
+			<field name="chapter_fields">{
+    "__tabs__": {
+        "additional": "Additional"
+    },
+    "introtext": {
+        "title": "Project Intro text",
+        "type": "textarea",
+        "writeParms": "",
+        "help": ""
+    }
+}</field>
+		</item>
+		<item>
+			<field name="chapter_id">6</field>
+			<field name="chapter_parent">4</field>
+			<field name="chapter_name">Books</field>
+			<field name="chapter_sef">books</field>
+			<field name="chapter_meta_description"></field>
+			<field name="chapter_meta_keywords"></field>
+			<field name="chapter_manager">0</field>
+			<field name="chapter_icon"></field>
+			<field name="chapter_image">{e_THEME}cayman/install/demo/p5.jpg</field>
+			<field name="chapter_order">201</field>
+			<field name="chapter_template">portfolio</field>
+			<field name="chapter_visibility">0</field>
+			<field name="chapter_fields">{
+    "__tabs__": {
+        "additional": "Additional"
+    }
+}</field>
+		</item>
+		<item>
+			<field name="chapter_id">7</field>
+			<field name="chapter_parent">4</field>
+			<field name="chapter_name">Graphic Design</field>
+			<field name="chapter_sef">graphic-design</field>
+			<field name="chapter_meta_description"></field>
+			<field name="chapter_meta_keywords"></field>
+			<field name="chapter_manager">0</field>
+			<field name="chapter_icon"></field>
+			<field name="chapter_image">{e_THEME}cayman/install/demo/p6.jpg</field>
+			<field name="chapter_order">202</field>
+			<field name="chapter_template">portfolio</field>
+			<field name="chapter_visibility">0</field>
+			<field name="chapter_fields">{
+    "__tabs__": {
+        "additional": "Additional"
+    },
+    "introtext": {
+        "title": "Intro Project Text",
+        "type": "text",
+        "writeParms": "size=\"block-level\"",
+        "help": ""
+    }
+}</field>
+		</item>
+	</dbTable>    
+	</database>
+</e107Export>
