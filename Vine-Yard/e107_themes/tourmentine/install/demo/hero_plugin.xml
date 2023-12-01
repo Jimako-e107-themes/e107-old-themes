@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<e107Export version="2.3.1" timestamp="1641477212" >
+	<database>
+	<dbTable name="hero">
+		<item>
+			<field name="hero_id">1</field>
+			<field name="hero_title"><![CDATA[A [powerful] &amp; [free] hero area]]></field>
+			<field name="hero_description">[Easy] to Use</field>
+			<field name="hero_bg">{e_THEME}tourmentine/images/unnamed.png</field>
+			<field name="hero_media">{e_THEME}tourmentine/images/logo_transparent.png</field>
+			<field name="hero_bullets">[
+    {
+        "icon": "fa-sun-o.glyph",
+        "icon_style": "",
+        "text": "",
+        "animation": "fadeInRight",
+        "animation_delay": "15"
+    },
+    {
+        "icon": "fa-font-awesome.glyph",
+        "icon_style": "",
+        "text": "",
+        "animation": "fadeInRight",
+        "animation_delay": "25"
+    },
+    {
+        "icon": "fa-adjust.glyph",
+        "icon_style": "",
+        "text": "",
+        "animation": "fadeInRight",
+        "animation_delay": "35"
+    },
+    {
+        "icon": "",
+        "icon_style": "",
+        "text": "",
+        "animation": "",
+        "animation_delay": "0"
+    },
+    {
+        "icon": "",
+        "icon_style": "",
+        "text": "",
+        "animation": "",
+        "animation_delay": "0"
+    }
+]</field>
+			<field name="hero_button1">{
+    "icon": "fa-arrow-circle-o-down",
+    "label": "Button",
+    "url": "www",
+    "class": "primary"
+}</field>
+			<field name="hero_button2">{
+    "icon": "fa-",
+    "label": "",
+    "url": "",
+    "class": ""
+}</field>
+			<field name="hero_order">0</field>
+			<field name="hero_class">0</field>
+		</item>
+		<item>
+			<field name="hero_id">2</field>
+			<field name="hero_title">Add [emphasized] titles</field>
+			<field name="hero_description">Add a description [here]</field>
+			<field name="hero_bg">{e_THEME}tourmentine/install/slider/img02.jpg</field>
+			<field name="hero_media">{e_THEME}tourmentine/images/logo_transparent.png</field>
+			<field name="hero_bullets">[
+    {
+        "icon": "fa-clock-o.glyph",
+        "icon_style": "info",
+        "text": "",
+        "animation": "",
+        "animation_delay": ""
+    },
+    {
+        "icon": "fa-id-badge.glyph",
+        "icon_style": "warning",
+        "text": "",
+        "animation": "",
+        "animation_delay": ""
+    },
+    {
+        "icon": "fa-globe.glyph",
+        "icon_style": "success",
+        "text": "",
+        "animation": "",
+        "animation_delay": ""
+    },
+    {
+        "icon": "fa-.glyph",
+        "icon_style": "",
+        "text": "",
+        "animation": "",
+        "animation_delay": ""
+    },
+    {
+        "icon": "fa-.glyph",
+        "icon_style": "",
+        "text": "",
+        "animation": "",
+        "animation_delay": ""
+    }
+]</field>
+			<field name="hero_button1">{
+    "icon": "fa-link",
+    "label": "Button",
+    "url": "#",
+    "class": "success"
+}</field>
+			<field name="hero_button2">{
+    "icon": "fa-",
+    "label": "",
+    "url": "",
+    "class": ""
+}</field>
+			<field name="hero_order">1</field>
+			<field name="hero_class">0</field>
+		</item>
+	</dbTable>
+	</database>
+</e107Export>

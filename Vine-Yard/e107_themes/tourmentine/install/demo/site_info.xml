@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<e107Export version="2.3.1" timestamp="1640699623" >
+	<prefs>
+		<core name="sitebutton">{e_MEDIA_IMAGE}2021-12/logo.png</core>
+		<core name="sitecontacts">255</core>
+		<core name="sitedescription"><![CDATA[Vins Bio AOC Bergerac &amp; Saussignac / Vins Français Bio / French Organic Wines]]></core>
+		<core name="sitedisclaimer"></core>
+		<core name="sitelang_init">English</core>
+		<core name="sitelanguage">English</core>
+		<core name="sitelogo">{e_MEDIA_IMAGE}2021-12/logo_transparent.png</core>
+		<core name="sitename">Domaine Tourmentine</core>
+		<core name="sitetag"><![CDATA[Vins Bio AOC Bergerac &amp; Saussignac]]></core>
+	</prefs>
+</e107Export>

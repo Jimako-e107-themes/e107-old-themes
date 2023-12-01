@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Theme name="tourmentine" version="1.0.1" date="2021-06-21" compatibility="2.3.1">
+	<author name ="Jimako" email="jimako@e107sk.com" url="https://www.e107sk.com" />
+	<summary>Bootstrap5 generic theme (under development)</summary>
+	<description>For testing only</description>
+	<category>generic</category>
+	<plugins>
+		<plugin name='hero' url='core' />
+		<plugin name='gallery' url='core' />
+        <plugin name='tinymce4' url='core' />
+		<plugin name='social' url='core' />
+		<plugin name='jmmenu'  />
+	</plugins>
+	<libraries>
+		<library name="bootstrap" version="5" scope="front,wysiwyg"/>
+		<library name="fontawesome" version="4" scope="front,wysiwyg"/>
+	</libraries>
+	<keywords>
+		<word>bootstrap</word>
+		<word>corporate</word>
+	</keywords>
+	<stylesheets>
+		<css file="style.css" name="Default"/>
+	</stylesheets>
+	<screenshots>
+		<image>tourmentine_preview.jpg</image>
+	</screenshots>
+	<layouts>
+		<layout name='home' title='Home Page' >
+			<custompages>FRONTPAGE</custompages>
+		</layout>       
+	    <layout name='full' title='Full Page' >
+			<custompages>:page login fpw signup :news/list</custompages>
+		</layout>
+		<layout name='sidebar_right' title='Sidebar (right)'>
+			<custompages>:news/view/item</custompages>
+		</layout>
+		<layout name='contact' title='Contact Page' >
+			<custompages>:contact/index</custompages>
+		</layout>
+	    <layout name='default' title='Default Full Page'  default='true'  >
+		</layout>
+	</layouts>
+	<glyphicons>
+		<glyph name='pixeden' pattern='\.(pe-7s-[a-z-0-9]*):before\{'  path='css/pe-icon-7-stroke.css' class='pe' prefix='pe-7s-'   tag='span' />
+	</glyphicons>
+</e107Theme>
