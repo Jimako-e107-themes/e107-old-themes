@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Theme name="InfadeBlack"  version="2.1.0" date="2019-11-06" compatibility="2.3.0">
+	<author name ="Jimako" email="jimako@e107sk.com" url="https://www.e107sk.com/" />
+	<summary>BLACKv2 by Infade  updated for e107 v2 </summary>
+	<description>Original author name added to theme name to respect their work</description>
+	<category>generic</category>
+	<keywords>
+		<word>legacy</word>
+		<word>clean</word>
+		<word>community</word>
+	</keywords>
+	<screenshots>
+		<image>preview.jpg</image>
+	</screenshots>
+	<stylesheets>
+		<css file="style.css" name="Default"  />
+	</stylesheets>
+	<layouts>
+		<layout name='default' title='Default' default='true' />
+	</layouts>
+</e107Theme>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Theme name="Denice Light Bootstrap 3 theme" version="1.0" date="2019-05-15" compatibility="2.2">
+	<author name ="Jimako"  url="https://www.e107.sk" />
+	<summary>e107 CMS theme based on PAPER Bootstrap3 UI KIT by Creative Tim</summary>
+	<description>Denice Light is based on the free version of this KIT, Denice Premium is based on the PRO version of this UI KIT.</description>
+	<category>generic</category>
+	<keywords>
+		<word>bootstrap</word>
+		<word>clean</word>
+	</keywords>
+	<screenshots>
+		<image>preview_frontend.jpg</image>
+	</screenshots>
+	<libraries>
+		<library name="bootstrap" scope="all"/>
+		<library name="fontawesome" scope="all"/>
+	</libraries>
+	<stylesheets>
+		<css file="style.css" name="Default"  />
+	</stylesheets>
+	<layouts>
+		<layout name='homepage' title='Homepage Option 1' default='false'>
+			<custompages>FRONTPAGE</custompages>	
+		</layout>
+		<layout name='full' title='Full width page'  >
+            <custompages>page, blogcalendar_menu, forum</custompages>    
+		</layout> 
+		<layout name='singlesignup' title='Register Page'  >
+            <custompages>signup</custompages>    
+		</layout>
+		<layout name='sidebar_right' title='Blog sidebar-right' default='true' >
+			<custompages>/news</custompages>	
+			<menuPresets>
+				<area id='1'>
+					<menu name='search' />
+					<menu name='news_categories' />
+					<menu name='other_news' />
+					<menu name='other_news2' />
+					<menu name='blogcalendar' />
+				</area>
+			</menuPresets>	
+		</layout>
+	</layouts>
+</e107Theme>

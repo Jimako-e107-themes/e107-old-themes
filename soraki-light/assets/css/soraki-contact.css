@@ -1,0 +1,55 @@
+#layout-singlecontact .container {
+  max-width: 970px;
+}
+
+.big-map {
+  height: 100%;
+  width: 100%;
+  display: block;
+  position: relative;
+}
+
+@media (max-width: 768px) {
+  .parallax .parallax-image {
+    width: 100%;
+    height: 640px;
+    overflow: hidden;
+  }
+
+  .parallax .parallax-image img {
+    height: 100%;
+    width: auto;
+  }
+
+  .parallax .small-info {
+    text-shadow: 0 0 10px black;
+    padding: 5px;
+    font-size: 20px !important;
+  }
+}
+
+#layout-singlecontact .navbar-transparent {
+  background-color: rgba(0, 0, 0, 0.55);
+  padding: 0;
+}
+#layout-singlecontact .parallax {
+  height: 500px;
+}
+#layout-singlecontact .contact-info p {
+  font-size: 15px;
+}
+#layout-singlecontact .company-description {
+  position: absolute;
+  right: 0;
+  top: 220px;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 3;
+  padding: 20px 60px 20px 20px;
+  border-radius: 6px 0 0 6px;
+  color: #FFFFFF;
+}
+#layout-singlecontact .company-description h4 {
+  margin: 0;
+}
+
+ 

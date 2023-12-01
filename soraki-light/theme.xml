@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Theme name="Soraki Light" version="1.0.3" date="2019-06-04" compatibility="2.2">
+	<author name ="Jimako"  url="https://www.e107.sk" />
+	<summary>e107 Soraki theme based on Get Shit Done Bootstrap3 UI KIT by Creative Tim</summary>
+	<description>Soraki Light is limited version, many things are hardcoded, Soraki Premium uses premium plugins for managing content.</description>
+	<category>generic</category>
+	<keywords>
+		<word>bootstrap</word>
+		<word>clean</word>
+	</keywords>
+	<screenshots>
+		<image>preview_frontend.jpg</image>
+		<image>preview_responsive.jpg</image>
+	</screenshots>
+	<libraries>
+    <library name="bootstrap" scope="all"/>
+		<library name="fontawesome" scope="all"/>
+	</libraries>
+	<stylesheets>
+		<css file="style.css" name="Default"  />
+	</stylesheets>
+	<layouts>
+		<layout name='homepage' title='Homepage Option 1' default='false'>
+			<custompages>FRONTPAGE</custompages>	
+		</layout>
+		<layout name='full' title='Full width page'  >
+            	<custompages>page, blogcalendar_menu, forum</custompages>    
+		</layout> 
+		<layout name='singlecontact' title='Contact page' default='false'  >
+       		<custompages>contact</custompages>    
+		</layout>
+		<layout name='singlesignup' title='Register Page'  >
+            	<custompages>signup, login</custompages>    
+		</layout>
+		<layout name='sidebarright' title='Blog sidebar-right' default='true' >
+			<custompages>/news</custompages>	
+		</layout>
+	</layouts>
+</e107Theme>

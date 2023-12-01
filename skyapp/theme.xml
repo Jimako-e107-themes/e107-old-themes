@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Theme name="SkyApp Bootstrap 4" version="2.0.2" date="2021-04-24" compatibility="2.3.1">
+	<author name ="Jimako" email="jimako@107sk.com" url="https://www.e107sk.com/" />
+	<summary>SkyApp Simple HTML5 Boostrap 4 theme</summary>
+	<description>SkyApp Simple HTML5 Boostrap 4 theme for the frontend insipired by template by Brad Traversy</description>
+	<category>generic</category>
+	<keywords>
+		<word>bootstrap</word>
+		<word>clean</word>
+	</keywords>
+	<plugins>
+		<plugin name='gallery' url='core' />
+		<plugin name='hero' url='core' />
+	</plugins>
+	<libraries>
+		<library name="bootstrap" version="4" /> 
+		<library name="fontawesome" version="5"  />
+	</libraries>
+	<stylesheets>
+		<css file="style.css" name="Default" exclude="bootstrap4"/>
+	</stylesheets>
+	<screenshots>
+		<image>skyapp_preview.png</image>
+	</screenshots>
+	<layouts>
+		<layout name='home' title='Home Page' >
+			<custompages>FRONTPAGE</custompages>
+		</layout>
+		<layout name='full' title='Full' >
+			<custompages>forum/ download/</custompages>
+		</layout>
+		<layout name='contact' title='Contact Page' >
+			<custompages>FRONTPAGE</custompages>
+		</layout>
+		<layout name='sidebar_right' title='Sidebar (right)' default='true' />
+	</layouts>
+</e107Theme>

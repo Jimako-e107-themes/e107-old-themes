@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Theme name="Freelancer" version="4.2" date="2020-01-16" compatibility="2.3.1">
+	<author name ="Jimako" email="jimako@107sk.com" url="https://www.e107sk.com/" />
+	<summary>e107 Freelancer Bootstrap4 Lite Theme</summary>
+	<description>e107 Bootstrap 4 theme based on freelancer portfolio theme created by Start Bootstrap.</description>
+	<category>generic</category>
+	<keywords>
+		<word>bootstrap</word>
+		<word>clean</word>
+	</keywords>
+	<plugins>
+		<plugin name='gallery' url='core' />
+		<plugin name='hero' url='core' />
+	</plugins>
+	<libraries>
+		<library name="bootstrap" version="4" /> 
+		<library name="fontawesome" version="5"  />
+	</libraries>
+	<stylesheets>
+		<css file="style.css" name="Default" exclude="bootstrap4"/>
+	</stylesheets>
+	<screenshots>
+		<image>freelancer_preview.jpg</image>
+	</screenshots>
+	<layouts>
+		<layout name='home' title='Home Page' >
+			<custompages>FRONTPAGE</custompages>
+		</layout>
+		<layout name='full' title='Full' >
+			<custompages>forum/ download/ gallery</custompages>
+		</layout>
+		<layout name='contact' title='Contact Page' >
+			<custompages>contact</custompages>
+		</layout>
+		<layout name='singleform' title='Shadowed centered form card' >
+			<custompages>login.php signup.php fpw.php usersettings.php</custompages>
+		</layout>
+		<layout name='sidebar_right' title='Sidebar (right)' default='true' />
+	</layouts>
+	<themePrefs>
+		<pref name='branding'>sitename</pref>
+	</themePrefs>
+</e107Theme>

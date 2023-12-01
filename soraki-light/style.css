@@ -1,0 +1,159 @@
+body.e-iframe {
+    padding: 0px;
+    margin: 0px;
+} 
+
+  
+/* New Column Class for width < 558px */
+@media (max-width: 558px) { 
+	.col-xxs-12 {
+	  position: relative;
+	  min-height: 1px;
+	  width: 100%;
+	  float: none;
+	  text-align: center;
+	 } 
+}  
+ 
+ 
+ 
+.register-card {
+    max-width:  initial; 
+}
+
+#login-template {
+   max-width:  initial; 
+}
+
+/* fix for carousel dots */
+.carousel-indicators > li {
+    margin-left: 7px;
+}
+.carousel-indicators > li.active {
+    margin-left: 7px;
+}
+
+/* fix for news share buttons */
+.social-share {
+  margin-right: 0px;  
+  margin-top: 0px; 
+}
+
+.social-share a {
+  color: initial;  
+}
+
+/* fix for bbarea */
+.bbarea .e-pointer, .bbarea .e-bb, .bbarea .btn {
+    border-radius: 0px;
+    border-width: 1px; 
+    
+    
+}
+
+ 
+/* fix for template logo */
+#login-template .logo {
+    padding-top: 5px; 
+}
+
+/* fix for default colour form */
+.signupsecure .tbox {
+ color: black;
+}
+
+
+.signupsecure .tbox {
+    background-color: #fffcf5;
+    border: medium none;
+    border-radius: 4px;
+    color: #66615b;
+    font-size: 16px;
+    transition: background-color 0.3s ease 0s;
+    padding: 7px 18px;
+    height: 40px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+
+#forum .fa-2x {
+  width: 33px;
+}
+
+ 
+ 
+ .blurred-container .motto {
+    text-transform: initial;  
+    width: 500px;
+}
+
+@media (max-width: 768px) {
+
+  .blurred-container {
+        height: 540px;
+  }
+  
+  .blurred-container .motto {
+      font-size: 45px;
+      width: 370px;
+      top: 130px;
+  }
+}
+
+#layout-singlesignup .parallax .small-info {
+  background: #958f8f73;
+  padding: 10px 30px;
+}
+
+
+@media (max-width: 558px) { 
+
+  .blurred-container {
+        height: 340px;
+  }
+
+  .blurred-container .motto {
+      font-size: 30px;
+      width: 315px;
+      top: 100px;
+  }
+}
+
+@media (max-width: 768px) {
+   /* line 1407 */
+  .dropdown-menu,  .dropdown-menu > li > a {
+      color: white;
+   }
+   
+   /* 3.0 bt fix */
+   .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+      color: white;
+  }
+}
+
+.filter-azure a.news-tag   {
+  color: white;
+}
+
+.pt-0 {
+padding-top: 0px;
+
+}
+.small-info .checkbox {
+color: #ffffff;
+}
+
+.parallax-fullheight {
+  height: 100vh;
+}
+
+.home .social-line {
+    border-top: 1px solid #dddddd;
+}
+
+/* fix for menu manager and paralax effect */
+.regularMenu {
+    z-index: 9999;
+    position: relative;
+}

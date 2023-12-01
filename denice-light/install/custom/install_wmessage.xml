@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<e107Export version="2.2.0 (git)" timestamp="1558082446" >
+	<database>
+	<dbTable name="generic">
+		<item>
+			<field name="gen_id">1</field>
+			<field name="gen_type">wmessage</field>
+			<field name="gen_datestamp">1145848343</field>
+			<field name="gen_user_id">1</field>
+			<field name="gen_ip">Welcome Message</field>
+			<field name="gen_intdata">0</field>
+			<field name="gen_chardata"><![CDATA[[html]<h5>This is the paragraph where you can write more details about your product. Keep you user engaged by providing meaningful information. Remember that by this time, the user is curious, otherwise he wouldn&#039;t scroll to get here. Add a button if you want the user to see more.</h5>
+<p><br><a href=&quot;https://www.e107.sk/documentation/e107-denice-pro-theme/?cat.142&quot; class=&quot;btn btn-danger btn-fill&quot; target=&quot;_blank&quot;>See Documentation</a></p>[/html]]]></field>
+		</item>
+	</dbTable>
+	</database>
+</e107Export>

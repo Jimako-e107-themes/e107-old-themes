@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<e107Export version="2.2.0 (git)" timestamp="1558125320" >
+	<database>
+	<dbTable name="generic">
+		<item>
+			<field name="gen_id">1</field>
+			<field name="gen_type">wmessage</field>
+			<field name="gen_datestamp">1145848343</field>
+			<field name="gen_user_id">1</field>
+			<field name="gen_ip">Hello World!</field>
+			<field name="gen_intdata">0</field>
+			<field name="gen_chardata"><![CDATA[[html]<p>This is e107 theme based on free <a href=&quot;https://www.creative-tim.com/product/get-shit-done-kit&quot; target=&quot;_blank&quot;>Get Shit Done</a> by Creative Tim. The text you are reading is the &quot;Welcome Message&quot; and the items below are &quot;News Items&quot;. Visit the admin-area to modify.<br><br><a class=&quot;btn btn-fill btn-primary&quot; href=&quot;{e_ADMIN}admin.php&quot;>Go to Admin area</a></p>[/html]]]></field>
+		</item>
+	</dbTable>
+	</database>
+</e107Export>

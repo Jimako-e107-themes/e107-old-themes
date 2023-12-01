@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<e107Export version="2.2.0 (git)" timestamp="1557994057" >
+	<pluginPrefs>
+		<featurebox name="menu_category">bootstrap3_carousel</featurebox>
+	</pluginPrefs>
+	<database>
+	<dbTable name="featurebox">
+		<item>
+			<field name="fb_id">4</field>
+			<field name="fb_title">Awesome Image</field>
+			<field name="fb_text"></field>
+			<field name="fb_mode">0</field>
+			<field name="fb_class">0</field>
+			<field name="fb_rendertype">0</field>
+			<field name="fb_template">bootstrap_carousel_image</field>
+			<field name="fb_order">3</field>
+			<field name="fb_image">{e_THEME}denice-light/install/paper_img/pencils.jpg</field>
+			<field name="fb_imageurl"></field>
+			<field name="fb_category">1</field>
+		</item>
+		<item>
+			<field name="fb_id">6</field>
+			<field name="fb_title">Awesome Image</field>
+			<field name="fb_text"></field>
+			<field name="fb_mode">0</field>
+			<field name="fb_class">0</field>
+			<field name="fb_rendertype">0</field>
+			<field name="fb_template">bootstrap_carousel_image</field>
+			<field name="fb_order">4</field>
+			<field name="fb_image">{e_THEME}denice-light/install/paper_img/shoes.jpg</field>
+			<field name="fb_imageurl"></field>
+			<field name="fb_category">1</field>
+		</item>
+		<item>
+			<field name="fb_id">10</field>
+			<field name="fb_title">Awesome Image</field>
+			<field name="fb_text"></field>
+			<field name="fb_mode">0</field>
+			<field name="fb_class">0</field>
+			<field name="fb_rendertype">0</field>
+			<field name="fb_template">bootstrap_carousel_image</field>
+			<field name="fb_order">4</field>
+			<field name="fb_image">{e_THEME}denice-light/install/paper_img/types.jpg</field>
+			<field name="fb_imageurl"></field>
+			<field name="fb_category">1</field>
+		</item>
+	</dbTable>
+	<dbTable name="featurebox_category">
+		<item>
+			<field name="fb_category_id">1</field>
+			<field name="fb_category_title">Carousel</field>
+			<field name="fb_category_icon"></field>
+			<field name="fb_category_template">bootstrap3_carousel</field>
+			<field name="fb_category_random">0</field>
+			<field name="fb_category_class">0</field>
+			<field name="fb_category_limit">0</field>
+			<field name="fb_category_parms"></field>
+		</item>
+		<item>
+			<field name="fb_category_id">3</field>
+			<field name="fb_category_title">Unassigned</field>
+			<field name="fb_category_icon"></field>
+			<field name="fb_category_template">unassigned</field>
+			<field name="fb_category_random">0</field>
+			<field name="fb_category_class">255</field>
+			<field name="fb_category_limit">0</field>
+			<field name="fb_category_parms"></field>
+		</item>
+	</dbTable>
+	</database>
+</e107Export>
