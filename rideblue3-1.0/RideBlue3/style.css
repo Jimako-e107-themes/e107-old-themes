@@ -1,0 +1,49 @@
+ 
+.btn {
+    color: #0054a6;
+    margin: 2px;
+    border-color:  #0054a6;
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    color: buttontext;
+    background-color: white;
+    box-sizing: border-box;
+    font-size: 12px;
+    border-radius: 0px;
+}
+ 
+ 
+
+/* fix for blogcalendar menu */
+.label-info {
+    background-color: #3da7f4;
+}
+
+.blogcalendar-day-active, .indent   {
+ background-color: #3da7f4;
+ background: #3da7f4; 
+}
+
+.blogcalendar-day-active .label  {
+ padding:  initial;
+}
+
+.headerbox h2 span   {
+	margin-top: -8px;
+}
+ 
+ 
+/* fix for search menu */
+ 
+ 
+#gallery-slideshow-content {
+	background: white;
+}
+ 
+#forum-viewtopic  img.img-rounded {
+ 
+    border-radius: 50%;
+}
+}
+ 
