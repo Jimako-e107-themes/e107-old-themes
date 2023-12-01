@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<e107Export version="2.3.1" timestamp="1640710179" >
+	<database>
+	<dbTable name="menus">
+		<item>
+			<field name="menu_id">146</field>
+			<field name="menu_name">block_code_menu</field>
+			<field name="menu_location">40</field>
+			<field name="menu_order">3</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">jmmenus/</field>
+			<field name="menu_layout"></field>
+			<field name="menu_parms">{
+    "lastname_74758209201093747": "",
+    "block_title": {
+        "English": "Email:"
+    },
+    "block_content": " {THEME_CONTACT_INFO: type=email1}",
+    "block_style": "footer-label",
+    "block_tablestyle": ""
+}</field>
+		</item>
+		<item>
+			<field name="menu_id">100</field>
+			<field name="menu_name">login_menu</field>
+			<field name="menu_location">1</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">login_menu/</field>
+			<field name="menu_layout"></field>
+			<field name="menu_parms"></field>
+		</item>
+		<item>
+			<field name="menu_id">102</field>
+			<field name="menu_name">navigation_menu</field>
+			<field name="menu_location">42</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">navigation/</field>
+			<field name="menu_layout"></field>
+			<field name="menu_parms">{
+    "lastname_74758209201093747": "",
+    "caption": {
+        "English": "Quick link"
+    },
+    "type": "main",
+    "layout": "footer-column"
+}</field>
+		</item>
+		<item>
+			<field name="menu_id">103</field>
+			<field name="menu_name">tagcloud_menu</field>
+			<field name="menu_location">43</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">tagcloud/</field>
+			<field name="menu_layout"></field>
+			<field name="menu_parms">{
+    "lastname_74758209201093747": "",
+    "tagcloud_caption": {
+        "English": "Tag Cloud"
+    },
+    "tagcloud_limit": "10"
+}</field>
+		</item>
+		<item>
+			<field name="menu_id">104</field>
+			<field name="menu_name">shortcode_menu</field>
+			<field name="menu_location">41</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">jmmenus/</field>
+			<field name="menu_layout"></field>
+			<field name="menu_parms">{
+    "lastname_74758209201093747": "",
+    "shortcode_menuCaption": {
+        "English": "Working hours"
+    },
+    "shortcode_menuCode": "Uniquement sur Rendez-vous (Merci d'appeler quelques temps avant votre passage)",
+    "shortcode_menuTableStyle": ""
+}</field>
+		</item>
+		<item>
+			<field name="menu_id">147</field>
+			<field name="menu_name">block_code_menu</field>
+			<field name="menu_location">40</field>
+			<field name="menu_order">2</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">jmmenus/</field>
+			<field name="menu_layout"></field>
+			<field name="menu_parms">{
+    "lastname_74758209201093747": "",
+    "block_title": {
+        "English": "Address: "
+    },
+    "block_content": "{THEME_CONTACT_INFO: type=address}",
+    "block_style": "footer-label",
+    "block_tablestyle": ""
+}</field>
+		</item>
+		<item>
+			<field name="menu_id">149</field>
+			<field name="menu_name">shortcode_menu</field>
+			<field name="menu_location">40</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">jmmenus/</field>
+			<field name="menu_layout"></field>
+			<field name="menu_parms">{
+    "lastname_74758209201093747": "",
+    "shortcode_menuCaption": {
+        "English": ""
+    },
+    "shortcode_menuCode": "{SITELOGO: h=100}",
+    "shortcode_menuTableStyle": "nocaption"
+}</field>
+		</item>
+		<item>
+			<field name="menu_id">150</field>
+			<field name="menu_name">navigation_menu</field>
+			<field name="menu_location">44</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">navigation/</field>
+			<field name="menu_layout"></field>
+			<field name="menu_parms">{
+    "lastname_74758209201093747": "",
+    "caption": {
+        "English": ""
+    },
+    "type": "main",
+    "layout": "footer"
+}</field>
+		</item>
+	</dbTable>
+	</database>
+</e107Export>

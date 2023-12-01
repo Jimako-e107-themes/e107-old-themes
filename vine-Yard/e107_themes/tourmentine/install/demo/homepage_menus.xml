@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<e107Export version="2.3.1" timestamp="1641483735" >
+	<database>
+	<dbTable name="menus">
+		<item>
+			<field name="menu_id">242</field>
+			<field name="menu_name">frontpage_hero_menu</field>
+			<field name="menu_location">21</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">jmmenus/</field>
+			<field name="menu_layout">home</field>
+			<field name="menu_parms">{
+    "lastname_74758209201093747": "",
+    "shortcode_menuCaption": {
+        "English": ""
+    },
+    "shortcode_menuTableStyle": "",
+    "template": "slider"
+}</field>
+		</item>
+		<item>
+			<field name="menu_id">243</field>
+			<field name="menu_name">news_grid_menu</field>
+			<field name="menu_location">22</field>
+			<field name="menu_order">1</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">news/</field>
+			<field name="menu_layout">home</field>
+			<field name="menu_parms">{
+    "lastname_74758209201093747": "",
+    "caption": {
+        "English": "Latest News"
+    },
+    "category": "",
+    "source": "latest",
+    "layout": "col-md-3",
+    "count": "4",
+    "feature": "0",
+    "titleLimit": "0",
+    "summaryLimit": "0"
+}</field>
+		</item>
+		<item>
+			<field name="menu_id">250</field>
+			<field name="menu_name">newsletter_menu</field>
+			<field name="menu_location">22</field>
+			<field name="menu_order">2</field>
+			<field name="menu_class">0</field>
+			<field name="menu_pages"></field>
+			<field name="menu_path">newsletter/</field>
+			<field name="menu_layout">home</field>
+			<field name="menu_parms"></field>
+		</item>
+	</dbTable>
+	</database>
+</e107Export>
