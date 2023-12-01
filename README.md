@@ -46,6 +46,7 @@ Postponed
 - just skeleton for somebody else theme
 No feedback.
 
+Original HTML source:  https://bootstrapious.com/p/juliette-bootstrap-feminine-blog-template
 
 ## 2021/09 Artemis Bootstrap 5 theme
 - just skeleton
@@ -311,6 +312,8 @@ Created: 04/2016 as bootstrap 3 version
 Last check: 2021/01
 
 Minimal e107 version: 2.3.1
+
+Original HTML repo:    https://github.com/StartBootstrap/startbootstrap-freelancer
 
 
 ## 2016/03 CounterStrike Bootstrap 3 theme
