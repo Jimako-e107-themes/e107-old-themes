@@ -5,11 +5,21 @@ Moved themes to new repo (https://github.com/Jimako-e107-themes)
 
 # !!! Everything in this repo is outdated. Don't use it.
 
+ 
+*** 
+# 2024
+***
 
-# Our free themes in one place  - just for testing and learning
-Our free themes are supported on our forum [https://www.e107sk.com/forum](url)
 
-But this doesn't mean that they are actively developed.
+*** 
+# 2023
+***
+
+### 2019/01 Call of Duty: Ghosts theme
+- moved to separate repo for update to 2.3.3
+
+https://github.com/Jimako-e107-themes/cod_ghost
+
 
 
 *** 
@@ -201,10 +211,11 @@ Premium theme
 ## 2019/01 Call of Duty: Ghosts theme
 
 Last check: 04/2019
+Last check: 12/2023  - fix for version 2.3.3
 
 I found some version of this theme during cleaning my comp. I don't think it was original 0.6 version, maybe some attempt to fix if for Alpha version. If I am not mistaken, it was downloaded from e107hungary site. So I prepared it for version 2.3 (2.2.2git). 
 It's not boostrap theme, so it's not responsive.
-
+ 
 
 *** 
 # 2018 
